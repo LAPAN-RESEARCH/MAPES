@@ -1,0 +1,87 @@
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Classic LaTeX Book Typography: Palatino + Helvetica
+\usepackage{mathpazo}
+\usepackage[scaled=0.92]{helvet}
+\usepackage{courier}
+
+\usepackage{microtype}
+\usepackage{geometry}
+\geometry{a4paper, top=2.5cm, bottom=2.5cm, left=3cm, right=2.5cm}
+
+\usepackage{xcolor}
+% Palette: Academic Navy & Slate
+\definecolor{primary}{RGB}{26, 54, 93}       % #1A365D - Deep Navy
+\definecolor{secondary}{RGB}{43, 108, 176}   % #2B6CB0 - Slate Blue
+\definecolor{accent}{RGB}{197, 48, 48}       % #C53030 - Crimson Accent
+\definecolor{darktext}{RGB}{45, 55, 72}      % #2D3748 - Charcoal Text
+\definecolor{bglight}{RGB}{247, 250, 252}     % #F7FAFC - Light Gray
+\definecolor{bordergray}{RGB}{226, 232, 240}  % #E2E8F0 - Border Gray
+
+\usepackage{setspace}
+\setstretch{1.15}
+
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins, breakable}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+% Chapter Header Styling
+\titleformat{\chapter}[display]
+  {\normalfont\sffamily\huge\bfseries\color{primary}}
+  {\Large\sffamily\color{secondary}\uppercase{\chaptertitlename}\ \thechapter}
+  {8pt}
+  {\Huge\sffamily\color{primary}\raggedright}
+\titlespacing*{\chapter}{0pt}{10pt}{25pt}
+
+% Section Header Styling
+\titleformat{\section}
+  {\normalfont\sffamily\Large\bfseries\color{primary}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\sffamily\large\bfseries\color{secondary}}
+  {\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+  {\normalfont\sffamily\normalsize\bfseries\color{darktext}}
+  {\thesubsubsection}{1em}{}
+
+% Running Headers & Footers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\sffamily\color{secondary}\leftmark}
+\fancyhead[R]{\small\sffamily\color{secondary}MAPES — v0.9.0}
+\fancyfoot[C]{\small\sffamily\color{darktext}\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Custom Blockquotes (tcolorbox)
+\renewenvironment{quote}
+  {\begin{tcolorbox}[
+    enhanced,
+    breakable,
+    colback=bglight,
+    colframe=secondary,
+    boxrule=0pt,
+    leftrule=3.5pt,
+    arc=0mm,
+    top=8pt, bottom=8pt, left=12pt, right=12pt
+  ]\itshape}
+  {\end{tcolorbox}}
+
+% Hyperref setup
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=primary,
+  citecolor=secondary,
+  urlcolor=secondary,
+  pdftitle={MAPES — Método de Aprendizagem por Estruturação Sistêmica},
+  pdfauthor={Hugo de Paula, Ricardo Guimarães, Cláudio de Moura Castro}
+}
