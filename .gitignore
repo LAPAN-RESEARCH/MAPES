@@ -1,0 +1,16 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs & Databases
+*.log
+*.sqlite3
+
+# Environment & Config
+.env
+.env.local
+
+# Node & Python caches (if any added later)
+node_modules/
+__pycache__/
+*.pyc
