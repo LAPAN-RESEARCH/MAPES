@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: MAPES — Método de Aprendizagem por Estruturação Sistêmica
+message: If you use this software/repository, please cite it using the metadata from
+  this file.
+type: software
+authors:
+- family-names: de Paula
+  given-names: Hugo
+  affiliation: Universidade Federal de Minas Gerais / LAPAN
+  website: https://github.com/hugodepaula
+repository-code: https://github.com/LAPAN-RESEARCH/edu-mapes-framework.git
+abstract: Educational framework for systemic structuring of teaching and learning
+  processes integrated with artificial intelligence.
+keywords:
+- mapes
+- education
+- framework
+- pedagogy
+- ai-in-education
+- latex
+date-released: '2026-07-26'
