@@ -8,9 +8,14 @@ authors:
   given-names: Hugo
   affiliation: Universidade Federal de Minas Gerais / LAPAN
   website: https://github.com/hugodepaula
+- family-names: Guimarães
+  given-names: Ricardo
+- family-names: de Moura Castro
+  given-names: Cláudio
 repository-code: https://github.com/LAPAN-RESEARCH/edu-mapes-framework.git
-abstract: Educational framework for systemic structuring of teaching and learning
-  processes integrated with artificial intelligence.
+abstract: Pedagogical, methodological, and institutional framework for systemic
+  structuring of complex knowledge, teaching, learning, assessment, adaptation,
+  and continuous improvement.
 keywords:
 - mapes
 - education
@@ -18,4 +23,5 @@ keywords:
 - pedagogy
 - ai-in-education
 - latex
-date-released: '2026-07-26'
+date-released: '2026-07-29'
+version: 0.10.0

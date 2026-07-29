@@ -1,7 +1,7 @@
 import re
 import os
 
-input_file = "entregaveis-v0.9.0/MAPES — Método de Aprendizagem por Estruturação Sistêmica.md"
+input_file = "entregaveis-v0.10.0/MAPES — Método de Aprendizagem por Estruturação Sistêmica.md"
 
 with open(input_file, "r", encoding="utf-8") as f:
     content = f.read()
@@ -22,12 +22,12 @@ new_lines = []
 # Header YAML metadata
 yaml_header = """---
 title: "MAPES — Método de Aprendizagem por Estruturação Sistêmica"
-subtitle: "Versão 0.9.0 — Versão teórico-metodológica para implementação piloto"
+subtitle: "Versão 0.10.0 — Consolidação pedagógica, metodológica e institucional"
 author:
   - "Hugo de Paula"
   - "Ricardo Guimarães"
   - "Cláudio de Moura Castro"
-date: "24 de julho de 2026"
+date: "29 de julho de 2026"
 institute: "LAPAN / UFMG"
 lang: pt-BR
 documentclass: book
@@ -75,9 +75,11 @@ for line in lines:
             new_lines.append(f"# {title}")
         elif line.startswith("#### "):
             title = re.sub(r'^#### ', '', line).strip()
+            title = re.sub(r'^[A-Z]\.\d+(?:\.\d+)*\s+', '', title).strip()
             new_lines.append(f"## {title}")
         elif line.startswith("##### "):
             title = re.sub(r'^##### ', '', line).strip()
+            title = re.sub(r'^[A-Z]\.\d+(?:\.\d+)*\s+', '', title).strip()
             new_lines.append(f"### {title}")
         elif line.startswith("# Canvas MAPES"):
             pass
@@ -107,7 +109,7 @@ for line in lines:
 
 final_md = yaml_header + "\n".join(new_lines)
 
-output_md = "entregaveis-v0.9.0/MAPES_Livro_Fonte.md"
+output_md = "entregaveis-v0.10.0/MAPES_Livro_Fonte.md"
 with open(output_md, "w", encoding="utf-8") as f:
     f.write(final_md)
 

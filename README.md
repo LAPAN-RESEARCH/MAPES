@@ -5,12 +5,12 @@
 [![CITATION.cff](https://img.shields.io/badge/CITATION.cff-cited-blue?style=for-the-badge&logo=github)](CITATION.cff)
 
 
-Repositório do projeto de desenvolvimento do **MAPES**, um framework educacional para estruturação sistêmica de processos de ensino e aprendizagem com integração de inteligência artificial.
+Repositório oficial do **MAPES — Método de Aprendizagem por Estruturação Sistêmica**, framework pedagógico, metodológico e institucional de aplicação transversal para organizar conhecimentos complexos como sistemas. Tecnologias digitais e inteligência artificial podem apoiar sua implementação, sem integrar sua definição conceitual.
 
 ## 📁 Estrutura do Repositório
 
-- **`MAPES-Formacao-Docente-Essencial-v0.1.0/`**: Materiais de formação docente, curso autoinstrucional, templates, prompts e guias rápidos.
-- **`MAPES-entregaveis-v0.9.0/`**: Entregáveis teóricos, revisão sistematizada de literatura, plano de pesquisa e documentos de decisão/QA.
+- **`formacao-docente-essencial-v0.1.1/`**: materiais de formação docente, curso autoinstrucional, templates, prompts e guias rápidos.
+- **`entregaveis-v0.10.0/`**: documento fundador, manual, especificação do MAPES Core, Perfil Institucional, glossário, revisão de literatura, plano de pesquisa e documentos de decisão/QA.
 - **`referencias/`**: Documentos de consolidação teórica, diretrizes, estilos e referências bibliográficas.
 
 ## 🔬 Organização

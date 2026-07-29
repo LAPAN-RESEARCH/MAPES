@@ -1,6 +1,6 @@
 import re
 
-input_file = "entregaveis-v0.9.0/01-revisao-sistematizada-literatura-MAPES.md"
+input_file = "entregaveis-v0.10.0/01-revisao-sistematizada-literatura-MAPES.md"
 
 with open(input_file, "r", encoding="utf-8") as f:
     content = f.read()
@@ -17,13 +17,13 @@ lines = content.split('\n')
 new_lines = []
 
 yaml_header = """---
-title: "Revisão Sistematizada da Literatura para o Desenvolvimento Teórico do MAPES"
-subtitle: "Síntese Crítica, Fundamentação Epistemológica e Mapeamento de Evidências (Versão 0.9.0)"
+title: "Revisão Sistematizada da Literatura para Fundamentação e Validação do MAPES"
+subtitle: "Síntese Crítica, Fundamentação Epistemológica e Mapeamento de Evidências (Versão 0.10.0)"
 author:
   - "Hugo de Paula"
   - "Ricardo Guimarães"
   - "Cláudio de Moura Castro"
-date: "24 de julho de 2026"
+date: "29 de julho de 2026"
 institute: "LAPAN / UFMG"
 lang: pt-BR
 documentclass: book
@@ -69,6 +69,7 @@ for line in lines:
             new_lines.append(f"# {title}")
         elif line.startswith("#### "):
             title = re.sub(r'^#### ', '', line).strip()
+            title = re.sub(r'^[A-Z]\.\d+(?:\.\d+)*\s+', '', title).strip()
             new_lines.append(f"## {title}")
         elif line.startswith("## ") and not line.startswith("## 1."):
             title = re.sub(r'^## \d+\. ', '', line).strip()
@@ -94,7 +95,7 @@ for line in lines:
 
 final_md = yaml_header + "\n".join(new_lines)
 
-output_md = "entregaveis-v0.9.0/MAPES_Revisao_Livro_Fonte.md"
+output_md = "entregaveis-v0.10.0/MAPES_Revisao_Livro_Fonte.md"
 with open(output_md, "w", encoding="utf-8") as f:
     f.write(final_md)
 
