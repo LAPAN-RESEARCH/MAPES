@@ -1,16 +1,19 @@
-# MAPES — consolidação conceitual, *lessons learned* e diretrizes para elaboração teórica
+# MAPES — consolidação conceitual, *lessons learned* e diretrizes de desenvolvimento acadêmico
 
 **Nome oficial:** MAPES — Método de Aprendizagem por Estruturação Sistêmica  
-**Natureza atual:** framework pedagógico em processo de formalização teórica  
-**Versão deste documento:** 1.0  
-**Data:** 23 de julho de 2026  
+**Natureza atual:** framework pedagógico, metodológico e institucional de aplicação transversal
+
+**Versão deste documento:** 1.1
+
+**Data:** 29 de julho de 2026
+
 **Status:** documento normativo de consolidação e orientação; não constitui validação empírica do framework
 
 ---
 
 ## Resumo executivo
 
-O MAPES é um framework pedagógico de aplicação transversal destinado a organizar o ensino e a aprendizagem de conhecimentos complexos como sistemas de componentes, relações, funções, níveis de domínio e contextos de aplicação. Seu problema de partida é a fragmentação do conhecimento, agravada pela abundância informacional e pela heterogeneidade dos repertórios dos estudantes. Sua resposta não consiste em reduzir a complexidade, mas em oferecer uma arquitetura explícita para que ela possa ser localizada, relacionada, compreendida e mobilizada.
+O MAPES é um framework pedagógico, metodológico e institucional de aplicação transversal destinado a organizar conhecimentos complexos como sistemas e orientar seu planejamento, apresentação, avaliação, adaptação e melhoria contínua. Seu problema de partida é a fragmentação do conhecimento, agravada pela abundância informacional e pela heterogeneidade dos repertórios dos estudantes. Sua resposta não consiste em reduzir a complexidade, mas em oferecer uma arquitetura explícita para que ela possa ser localizada, relacionada, compreendida e mobilizada.
 
 O framework é orientado por quatro pilares reunidos na sigla **BTTA**:
 
@@ -21,7 +24,7 @@ O framework é orientado por quatro pilares reunidos na sigla **BTTA**:
 
 Os quatro pilares não esgotam o MAPES. Eles formam sua arquitetura conceitual. O framework completo articula essa arquitetura com metodologias de ensino, processos de planejamento, práticas, atividades, avaliações e artefatos didáticos. Por isso, embora “Método” permaneça no nome consolidado, o MAPES deve ser descrito academicamente como **framework pedagógico**, e não como uma metodologia isolada.
 
-O histórico de elaboração permitiu estabelecer um núcleo conceitual relativamente estável, mas ainda não autoriza apresentar o MAPES como uma teoria pedagógica validada. Para alcançar esse estatuto, será necessário:
+O histórico de elaboração permitiu estabelecer um núcleo conceitual relativamente estável, mas ainda não autoriza alegar eficácia integrada ou superioridade. Para avançar na validação, será necessário:
 
 - eliminar ambiguidades entre os construtos;
 - explicitar mecanismos e condições de contorno;
@@ -42,7 +45,7 @@ Este texto cumpre cinco funções:
 2. fornecer uma referência normativa para sites, aulas, apresentações, artigos, materiais didáticos e documentos institucionais;
 3. impedir que formulações históricas, promocionais ou específicas da Neurovisão sejam confundidas com a definição geral do framework;
 4. explicitar o que já está definido, o que é apenas hipótese e o que ainda exige decisão;
-5. orientar a transição de um framework pedagógico autoral para uma teoria educacional formalmente articulada e empiricamente investigável.
+5. orientar a investigação, validação e o aperfeiçoamento acadêmico do framework.
 
 O documento não substitui:
 
@@ -95,11 +98,11 @@ Toda alteração conceitual futura deverá indicar:
 
 Alterações meramente gráficas ou editoriais não devem modificar silenciosamente o significado dos construtos.
 
-## 3. Estatuto epistemológico atual
+## 3. Estatuto epistemológico e estado de validação
 
 ### 3.1 O que o MAPES é
 
-O MAPES é, no estágio atual, um **framework pedagógico autoral**. Um framework organiza conceitos, decisões e práticas e fornece uma estrutura para planejamento, implementação e análise. Ele pode incorporar metodologias educacionais distintas, desde que sejam compatíveis com seus princípios.
+O MAPES é um **framework pedagógico, metodológico e institucional autoral**. Um framework organiza conceitos, decisões e práticas e fornece uma estrutura para planejamento, implementação e análise. Ele pode incorporar metodologias educacionais distintas, desde que sejam compatíveis com seus princípios.
 
 O MAPES:
 
@@ -109,20 +112,19 @@ O MAPES:
 - pode ser aplicado a diferentes campos do saber;
 - pode incorporar sala de aula invertida, aprendizagem baseada em problemas, investigação guiada, estudos de caso e outras metodologias.
 
-### 3.2 O que o MAPES ainda não é
+### 3.2 O que o MAPES não alega
 
 O MAPES ainda não deve ser apresentado como:
 
-- uma teoria pedagógica empiricamente validada;
 - uma intervenção cuja superioridade tenha sido demonstrada;
 - uma explicação causal estabelecida sobre memória, motivação, ansiedade ou carga cognitiva;
 - um método universalmente eficaz para qualquer domínio, público ou objetivo;
 - uma substituição de teorias de aprendizagem existentes;
 - um protocolo fechado e invariável.
 
-### 3.3 Critérios para alcançar o estatuto de teoria
+### 3.3 Critérios para validação e aperfeiçoamento
 
-Uma teoria do MAPES exigirá, no mínimo:
+O programa acadêmico do MAPES exigirá, no mínimo:
 
 1. **construtos definidos:** cada componente deve possuir significado não circular e distinguível;
 2. **relações explícitas:** deve-se explicar como os construtos se relacionam;
@@ -182,7 +184,9 @@ Essa pergunta não presume a eficácia do MAPES e admite resultados nulos, heter
 
 ### 5.1 Definição canônica
 
-> **MAPES — Método de Aprendizagem por Estruturação Sistêmica — é um framework pedagógico de aplicação transversal que organiza conhecimentos complexos como sistemas e articula os pilares Blueprint funcional, Teleonomia, Taxonomia acelerada e Ancoragem Contextual com metodologias, processos, práticas, avaliações e artefatos de aprendizagem.**
+> **MAPES — Método de Aprendizagem por Estruturação Sistêmica — é um framework pedagógico, metodológico e institucional de aplicação transversal que organiza conhecimentos complexos como sistemas e orienta seu planejamento, apresentação, avaliação, adaptação e melhoria contínua. Seu núcleo conceitual articula Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual, complementados pela Estratificação de Relevância Sistêmica.**
+
+O MAPES preserva a autoridade acadêmica do professor e pode ser apoiado por tecnologias digitais e inteligência artificial, sem depender delas para sua definição conceitual.
 
 ### 5.2 Finalidade
 
@@ -284,7 +288,7 @@ O artefato não comprova, por si só, a implementação do framework. Um diagram
 |---|---|---|
 | Framework | **MAPES** | sempre em maiúsculas |
 | Expansão | **Método de Aprendizagem por Estruturação Sistêmica** | única expansão oficial |
-| Natureza | **framework pedagógico** | “método” permanece no nome, mas não esgota sua natureza |
+| Natureza | **framework pedagógico, metodológico e institucional** | “método” permanece no nome, mas não esgota sua natureza |
 | Conjunto de pilares | **BTTA** | única denominação corrente |
 | Primeiro pilar | **Blueprint funcional** | preferível a “Blueprint” isolado em textos formais |
 | Segundo pilar | **Teleonomia** | função sem intencionalidade ou finalismo |
@@ -658,11 +662,11 @@ A avaliação deve abranger:
 | Fontes | Que evidência sustenta conteúdo e escolhas pedagógicas? |
 | Revisão | Que resultados exigirão modificar o desenho? |
 
-## 13. MAPES e Neurovisão
+## 13. Exemplo ilustrativo em Neurovisão
 
 ### 13.1 Relação correta
 
-O MAPES não é uma metodologia específica da Neurovisão. A Neurovisão é uma aplicação do framework a um domínio complexo que integra óptica, biologia, neurociências, engenharia, clínica e tecnologias de avaliação.
+O MAPES não é uma metodologia específica da Neurovisão. Neurovisão pode ilustrar a aplicação do framework a um domínio complexo, sem estatuto privilegiado e sem integrar sua definição geral.
 
 Essa aplicação é especialmente útil para demonstrar:
 
@@ -713,7 +717,7 @@ Todo texto acadêmico ou institucional sobre o MAPES deve classificar internamen
 
 Os códigos podem permanecer invisíveis no texto público, mas devem existir durante redação e revisão.
 
-## 15. Proposições para uma teoria em elaboração
+## 15. Proposições testáveis do framework
 
 As proposições abaixo são hipóteses de trabalho, não resultados.
 
@@ -824,7 +828,7 @@ Apresentações e programas preservam nomes e expansões superados. Sem uma font
 
 ### 17.4 Aplicação não é definição
 
-A Neurovisão ajudou a concretizar o MAPES, mas seus sistemas, classes, instrumentos e hipóteses clínicas não devem limitar nem definir o framework geral.
+Exemplos de Neurovisão podem tornar relações concretas, mas seus sistemas, classes, instrumentos e hipóteses clínicas não devem limitar nem definir o framework geral.
 
 ### 17.5 Metáforas são portas, não evidências
 
@@ -1025,7 +1029,7 @@ Adotar versionamento semântico:
 
 ### Prioridade de aplicação
 
-13. formalizar a relação entre classes da aplicação em Neurovisão, domínios propedêuticos e grafo Sistemas–Competências–Técnicas;
+13. testar a relação entre classes de domínio, competências e técnicas em exemplos contrastantes;
 14. criar modelos reutilizáveis para unidade didática, aula, material e avaliação;
 15. definir formação mínima de docentes;
 16. testar acessibilidade cognitiva e digital dos artefatos;
@@ -1151,7 +1155,7 @@ Ela ainda não constitui uma revisão suficiente para demonstrar:
 - mecanismo integrador;
 - superioridade sobre outras abordagens;
 - efetividade transversal;
-- validade em Neurovisão;
+- validade em diferentes domínios;
 - impacto clínico, motivacional ou institucional.
 
 ## 24. Glossário
@@ -1178,7 +1182,15 @@ Ela ainda não constitui uma revisão suficiente para demonstrar:
 
 **Sistema:** conjunto delimitado de componentes cujas relações são relevantes para o fenômeno ou objetivo analisado.
 
-**Taxonomia acelerada:** pilar de progressão cognitiva; denominação e definição ainda exigem consolidação para eliminar sobreposição com classificação de relevância.
+**Estratificação de Relevância Sistêmica:** dimensão separada da Taxonomia Acelerada, com classes Nuclear, Habilitadora, Contextual e Extensão; não constitui quinto pilar.
+
+**MAPES Core:** arquitetura operacional normativa do framework, executável manualmente, digitalmente ou por combinação entre trabalho humano e automação.
+
+**PDI:** Plano de Desenvolvimento Institucional, documento institucional externo ao escopo do MAPES; não designa plano individual de aprendizagem.
+
+**PDCA:** macroestrutura administrativa de melhoria contínua; não substitui o ciclo pedagógico MAPES.
+
+**Taxonomia Acelerada:** pilar de ativação cognitiva precoce e recorrente em ciclo não linear, sem eliminação de fundamentos.
 
 **Teleonomia:** análise de contribuição funcional sem atribuição de intenção ou finalidade metafísica.
 
@@ -1192,13 +1204,13 @@ Até que nova versão seja formalmente aprovada, devem ser consideradas estávei
 2. MAPES é descrito como **framework pedagógico de aplicação transversal**.
 3. BTTA reúne **Blueprint funcional, Teleonomia, Taxonomia acelerada e Ancoragem Contextual**.
 4. BTTA fornece os pilares; o MAPES articula pilares, metodologias, processos, práticas, avaliações e artefatos.
-5. A Neurovisão é uma aplicação do MAPES, não seu limite de validade nem sua definição.
+5. Neurovisão pode aparecer como exemplo ilustrativo, sem estatuto privilegiado e sem integrar a definição do MAPES.
 6. Pontos de entrada contextuais podem variar; o conteúdo e os critérios de validade devem permanecer.
 7. Teleonomia não autoriza finalismo.
 8. “Aceleração” não autoriza omissão de fundamentos nem promessa de aprendizagem mais rápida.
 9. Exemplos, metáforas e aplicações não constituem evidência.
 10. Alegações causais requerem fonte e desenho de pesquisa compatíveis.
-11. O MAPES permanece um framework em formalização teórica até que um programa empírico sustente estatuto mais forte.
+11. O MAPES mantém um programa de investigação, validação e aperfeiçoamento, e suas alegações devem corresponder às evidências.
 
 ---
 
