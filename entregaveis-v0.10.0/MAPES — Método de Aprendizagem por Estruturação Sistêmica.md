@@ -1,8 +1,8 @@
 # MAPES — Método de Aprendizagem por Estruturação Sistêmica
 
-**Versão:** 0.9.0 — versão teórico-metodológica para implementação piloto  
-**Data:** 24 de julho de 2026  
-**Status epistemológico:** framework pedagógico e teoria em elaboração; não validado empiricamente como sistema integrado
+**Versão:** 0.10.0 — consolidação pedagógica, metodológica e institucional  
+**Data:** 29 de julho de 2026  
+**Status epistemológico:** framework pedagógico, metodológico e institucional; não validado empiricamente como sistema integrado
 
 ## Autores
 
@@ -12,14 +12,12 @@
 
 ### Forma recomendada de citação
 
-de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.9.0) [Manuscrito teórico-metodológico em preparação]. Projeto MAPES/LAPAN-UFMG.
+de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
 
 Citação parentética: **(de Paula et al., 2026)**.  
 Citação narrativa: **de Paula, Guimarães e de Moura Castro (2026)**.
 
-> **Nota de versionamento:** a versão 0.9.0 registra uma especificação ampla e utilizável em pilotos, mas não representa uma teoria estabilizada. O número 1.0.0 será reservado a uma versão com definições estáveis, instrumentos iniciais de fidelidade e resultados de implementação externa.
-
-> **Nota sobre o corpus VELCRO:** o projeto identifica um documento denominado VELCRO como fonte original do diagnóstico das crises contemporâneas de atenção. Esse arquivo não integrou o corpus acessível durante esta redação. A contextualização abaixo foi reconstruída com base no manifesto legado MAPES e na literatura científica. A incorporação futura do VELCRO exigirá reconciliação documental e registro no CHANGELOG, sem atribuir retroativamente ao texto afirmações não verificadas.
+> **Nota de versionamento:** a versão 0.10.0 consolida a definição, a arquitetura operacional, a mensuração multidimensional da qualidade e a governança do framework. O número 1.0.0 permanece reservado a uma versão com instrumentos iniciais validados de fidelidade e resultados de implementação externa.
 
 ---
 
@@ -27,21 +25,21 @@ Citação narrativa: **de Paula, Guimarães e de Moura Castro (2026)**.
 
 ### Resumo
 
-O MAPES — Método de Aprendizagem por Estruturação Sistêmica — é um framework pedagógico de aplicação transversal e uma teoria em elaboração que organiza conhecimentos complexos como sistemas de componentes, relações, funções, níveis de relevância, operações cognitivas e contextos de aplicação. Seu problema de partida é a dificuldade de estudantes em selecionar, integrar e mobilizar conhecimento em uma ecologia contemporânea marcada por abundância informacional, fragmentação curricular, heterogeneidade de repertórios, concorrência atencional e crescente mediação por tecnologias digitais e inteligência artificial. O MAPES não presume uma redução universal da capacidade de atenção, não patologiza estudantes e não substitui o professor. Sustenta que o desenho pedagógico pode orientar a atenção e tornar a complexidade navegável quando explicita arquitetura, função, propósito da tarefa, critérios e relações com conhecimentos prévios.
+O MAPES — Método de Aprendizagem por Estruturação Sistêmica — é um framework pedagógico, metodológico e institucional de aplicação transversal que organiza conhecimentos complexos como sistemas e orienta seu planejamento, apresentação, avaliação, adaptação e melhoria contínua. Seu núcleo conceitual articula Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual, complementados pela Estratificação de Relevância Sistêmica. Seu problema de partida é a dificuldade de estudantes em selecionar, integrar e mobilizar conhecimento em uma ecologia contemporânea marcada por abundância informacional, fragmentação curricular, heterogeneidade de repertórios e concorrência atencional. O MAPES preserva a autoridade acadêmica do professor e pode ser apoiado por tecnologias digitais e inteligência artificial, sem depender delas para sua definição conceitual.
 
 O framework articula quatro pilares: **Blueprint funcional**, representação multiescalar do domínio, formalizável como grafo sistêmico funcional; **Teleonomia**, análise da contribuição funcional, de dependências e falhas sem finalismo; **Taxonomia Acelerada**, introdução precoce e recorrente de tarefas autênticas de aplicação, análise, avaliação e criação, com fundamentos mobilizados de forma oportuna; e **Ancoragem Contextual**, construção de pontos de entrada compatíveis com repertórios dos estudantes, seguida de abstração e transferência. A **Estratificação de Relevância Sistêmica** é uma dimensão transversal independente da complexidade cognitiva.
 
-O documento apresenta fundamentos, pressupostos, definições operacionais, relações entre constructos, proposições testáveis, condições de contorno, ciclo de implementação, três níveis de documentação — Essencial, Padrão e Pesquisa —, artefatos, rubricas, avaliação da aprendizagem, meta-avaliação, governança piloto e agenda empírica. Também especifica o **MAPES Core**, arquitetura tecnológica opcional em que grafos, IA e learning analytics apoiam planejamento e personalização, preservando agência docente, proveniência, explicabilidade e padrões comuns. A formulação assume caráter falibilista: benefícios são hipóteses; resultados nulos, custos, disparidades ou efeitos adversos devem revisar o modelo.
+O documento apresenta fundamentos, pressupostos, definições operacionais, relações entre constructos, proposições testáveis, condições de contorno, ciclo de implementação, três níveis de documentação — Essencial, Padrão e Pesquisa —, artefatos, rubricas, avaliação da aprendizagem, meta-avaliação, governança e agenda empírica. Também especifica o **MAPES Core**, arquitetura operacional normativa do framework cujas funções podem ser realizadas manualmente, digitalmente ou por combinação entre trabalho humano e automação. Software e IA são recursos de implementação do Core. A formulação assume caráter falibilista: benefícios são hipóteses; resultados nulos, custos, disparidades ou efeitos adversos devem revisar o framework.
 
 **Palavras-chave:** aprendizagem sistêmica; design instrucional; aprendizagem ativa; grafos de conhecimento; taxonomia cognitiva; atenção; formação por competências; inteligência artificial na educação; avaliação; agência docente.
 
 ### Abstract
 
-MAPES — the Systemic Structuring Learning Method — is a cross-domain pedagogical framework and an emerging theory that organizes complex knowledge as systems of components, relations, functions, relevance levels, cognitive operations, and application contexts. It addresses students’ difficulty in selecting, integrating, and mobilizing knowledge within a contemporary learning ecology characterized by information abundance, curricular fragmentation, heterogeneous prior knowledge, attentional competition, and increasing mediation by digital technologies and artificial intelligence. MAPES does not assume a universal decline in attention, pathologize students, or replace teachers. It proposes that instructional design may orient attention and make complexity navigable by making architecture, function, task purpose, criteria, and connections to prior knowledge explicit.
+MAPES — the Systemic Structuring Learning Method — is a cross-domain pedagogical, methodological, and institutional framework that organizes complex knowledge as systems and guides its planning, presentation, assessment, adaptation, and continuous improvement. Its conceptual core articulates the Functional Blueprint, Teleonomy, Accelerated Taxonomy, and Contextual Anchoring, complemented by Systemic Relevance Stratification. MAPES preserves teachers’ academic authority and may be supported by digital technologies and artificial intelligence without depending on them for its conceptual definition.
 
 The framework integrates four pillars: the **Functional Blueprint**, a multiscale representation of a domain that may be formally implemented as a systemic functional graph; **Teleonomy**, the analysis of functional contribution, dependencies, variation, and failure without finalism; **Accelerated Taxonomy**, the early and recurrent use of authentic application, analysis, evaluation, and creation tasks, with foundational knowledge mobilized when required; and **Contextual Anchoring**, the design of entry points connected to learners’ repertoires, followed by abstraction and transfer. **Systemic Relevance Stratification** is a transversal dimension independent from cognitive complexity.
 
-This document defines foundations, assumptions, constructs, relationships, testable propositions, boundary conditions, implementation cycles, proportional documentation levels, artifacts, assessment, meta-evaluation, pilot governance, and a research agenda. It also specifies the optional **MAPES Core**, a technological architecture in which knowledge graphs, artificial intelligence, and learning analytics support planning and personalization while preserving teacher agency, provenance, explainability, and common standards. The formulation is explicitly fallibilist: benefits remain hypotheses, and null findings, costs, inequities, or adverse effects must inform revision.
+This document defines foundations, assumptions, constructs, relationships, testable propositions, boundary conditions, implementation cycles, proportional documentation levels, artifacts, assessment, meta-evaluation, governance, and a research agenda. It also specifies **MAPES Core** as the framework’s normative operational architecture. Its functions may be performed manually, digitally, or through combined human work and automation; software and artificial intelligence are implementation resources. The formulation is explicitly fallibilist: benefits remain hypotheses, and null findings, costs, inequities, or adverse effects must inform revision.
 
 **Keywords:** systemic learning; instructional design; active learning; knowledge graphs; cognitive taxonomy; attention; competency-based education; artificial intelligence in education; assessment; teacher agency.
 
@@ -105,6 +103,8 @@ A IA pode gerar versões preliminares de mapas, tarefas e rubricas. Estudos sobr
 
 > **A IA estrutura, compara e propõe; o professor define, valida, interpreta, decide e responde pelas consequências.**
 
+Essa relação constitui **autoria assistida**. A instituição estabelece políticas, limites, proteção de dados e governança; a tecnologia não desloca a autoria acadêmica nem a responsabilidade profissional do professor.
+
 ### 1.6 Problema e finalidade do MAPES
 
 O MAPES responde a cinco dificuldades relacionadas:
@@ -119,7 +119,7 @@ Sua finalidade é fornecer uma arquitetura para planejar, ensinar, aprender, ava
 
 ### 1.7 Estatuto epistemológico
 
-O MAPES é apresentado como **framework pedagógico autoral e teoria em elaboração**, em continuidade às decisões normativas consolidadas pelo Projeto MAPES (2026). Uma teoria requer constructos definidos, relações, mecanismos, condições de contorno, predições observáveis, operacionalização, possibilidade de refutação e programa empírico. O presente documento fornece essa arquitetura, mas não constitui validação.
+O MAPES é apresentado como **framework pedagógico, metodológico e institucional de aplicação transversal**, em continuidade às decisões normativas consolidadas pelo Projeto MAPES (2026). Sua pesquisa constitui um programa de investigação, validação e aperfeiçoamento do framework. Esse programa preserva constructos definidos, relações, mecanismos, condições de contorno, predições observáveis, operacionalização, possibilidade de refutação e revisão acadêmica. O presente documento fornece essa arquitetura, mas não constitui validação de eficácia.
 
 Não devem ser alegados como fatos estabelecidos:
 
@@ -133,7 +133,9 @@ Não devem ser alegados como fatos estabelecidos:
 
 ### 1.8 Definição canônica
 
-> **MAPES — Método de Aprendizagem por Estruturação Sistêmica — é um framework pedagógico de aplicação transversal e uma teoria em elaboração que organiza conhecimentos complexos como sistemas e articula Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual com estratificação de relevância, metodologias, tarefas, avaliação, artefatos e ciclos de revisão, sob mediação e responsabilidade docente.**
+> **MAPES — Método de Aprendizagem por Estruturação Sistêmica — é um framework pedagógico, metodológico e institucional de aplicação transversal que organiza conhecimentos complexos como sistemas e orienta seu planejamento, apresentação, avaliação, adaptação e melhoria contínua. Seu núcleo conceitual articula Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual, complementados pela Estratificação de Relevância Sistêmica.**
+
+O MAPES preserva a autoridade acadêmica do professor e pode ser apoiado por tecnologias digitais e inteligência artificial, sem depender delas para sua definição conceitual.
 
 ### 1.9 Objetivos deste documento
 
@@ -386,7 +388,17 @@ em que:
 - \(O\) = orquestração, recursos e artefatos;
 - \(V\) = avaliação, fidelidade e revisão.
 
-BTTA fornece os pilares; os demais elementos transformam pilares em unidade didática.
+BTTA fornece os quatro pilares; a Estratificação de Relevância Sistêmica os complementa sem constituir um quinto pilar. Os demais elementos transformam essa arquitetura em unidade didática.
+
+As identidades devem permanecer distintas:
+
+> **MAPES ≠ BTTA ≠ MAPES Core**
+
+- **MAPES** é o framework pedagógico, metodológico e institucional completo;
+- **BTTA** é seu núcleo conceitual de quatro pilares;
+- **MAPES Core** é a arquitetura operacional normativa que traduz o framework em funções, registros, gates e ciclos de trabalho.
+
+Software e inteligência artificial não integram a ontologia principal. São recursos que podem apoiar a implementação das funções do Core.
 
 ### 4.2 Blueprint funcional
 
@@ -447,6 +459,12 @@ G_t = \langle V_t, E_t, \tau_V, \tau_E, w_t, s_t, p \rangle
 
 Um mapa funcional é uma vista desse grafo. Uma vista para novato pode mostrar o núcleo; uma vista para especialista, controvérsias e exceções. O grafo não substitui narrativa, caso ou experiência.
 
+As três representações não são sinônimas:
+
+- **Blueprint funcional:** modelo conceitual da arquitetura do domínio e das escolhas pedagógicas relevantes;
+- **grafo sistêmico funcional:** formalização analítica ou computacional do Blueprint por nós, relações tipadas, estados, pesos, tempo e proveniência;
+- **mapa funcional:** visualização pedagógica selecionada do grafo para um objetivo, público ou momento.
+
 ### 4.4 Teleonomia
 
 #### Definição
@@ -504,7 +522,15 @@ O estudante deve explicar o conceito sem depender da analogia e aplicá-lo em no
 
 ### 4.7 Estratificação de Relevância Sistêmica
 
-Dimensão transversal:
+Dimensão transversal e independente da Taxonomia Acelerada. A classificação deve considerar, de forma justificada e sem conversão automática em escore:
+
+1. centralidade no sistema;
+2. criticidade;
+3. precedência ou pré-requisito;
+4. frequência de uso;
+5. capacidade de transferência;
+6. complexidade;
+7. risco associado ao erro.
 
 | Classe | Definição | Pergunta |
 |---|---|---|
@@ -534,16 +560,31 @@ Artefatos incluem mapas, casos, simulações, rubricas, textos, vídeos e interf
 
 Avaliação produz evidência de aprendizagem e informação para revisar desenho. O ciclo é recursivo; uma resposta pode revelar erro no estudante, no mapa, na tarefa ou na explicação.
 
-### 4.11 Relações entre os pilares
+### 4.11 Relações entre Blueprint, Teleonomia, Taxonomia Acelerada, Ancoragem e Relevância
 
-| Pilar | Objeto | Erro evitado | Risco próprio |
+Os componentes são analiticamente distintos e operacionalmente interdependentes:
+
+| Componente | Camada adicionada | Pergunta de desenho | Registro no sistema |
 |---|---|---|---|
-| Blueprint | arquitetura | fragmentação | mapa excessivo ou reificado |
-| Teleonomia | contribuição funcional | nomenclatura sem função | finalismo |
-| Taxonomia Acelerada | operação cognitiva | estacionamento reprodutivo | sobrecarga |
-| Ancoragem Contextual | interface inicial | distância de repertório | familiaridade sem abstração |
+| Blueprint funcional | topologia | quais elementos, fronteiras, interfaces e relações compõem o sistema? | nós, relações, tipos, escalas e fronteiras |
+| Teleonomia | semântica funcional | que contribuição cada elemento ou relação desempenha, sob quais condições e com quais consequências de falha? | função, mecanismo, dependências, variações e falhas |
+| Taxonomia Acelerada | operações e tarefas | o que o estudante precisa fazer cognitivamente com essa estrutura? | operação, tarefa, apoio, evidência, feedback e transferência |
+| Ancoragem Contextual | portas de entrada | de qual repertório partir, como chegar à formulação disciplinar e como desancorar? | âncora, correspondências, limites, abstração e novo contexto |
+| Estratificação de Relevância Sistêmica | prioridade | o que é Nuclear, Habilitadora, Contextual ou Extensão para este objetivo? | classe e justificativa pelos sete critérios |
 
-A integração pode ocorrer iterativamente. Uma função pode exigir revisão do grafo; um caso pode revelar nova âncora; uma avaliação pode alterar relevância.
+O Blueprint define a topologia, mas não determina sozinho o significado funcional. A Teleonomia atribui semântica às posições e relações, sem converter função em intenção. A Taxonomia Acelerada transforma essa arquitetura funcional em operações observáveis e tarefas não lineares. A Ancoragem Contextual oferece entradas distintas para o mesmo núcleo, exige formulação disciplinar comum e termina em desancoragem e transferência. A Estratificação de Relevância prioriza o que deve receber atenção curricular; ela não mede complexidade cognitiva e não é um quinto pilar.
+
+O grafo pode registrar dados produzidos por todas essas camadas, mas não é equivalente ao BTTA nem ao MAPES. A integração é iterativa: uma função pode exigir revisão da topologia; uma tarefa pode expor uma lacuna; uma âncora pode revelar correspondência inadequada; uma evidência pode modificar a relevância ou o próprio Blueprint.
+
+Para o estudante, a integração pode ser operacionalizada por cinco perguntas metacognitivas:
+
+1. Onde isto se encontra no sistema?
+2. Que contribuição funcional desempenha?
+3. O que preciso fazer com esse conhecimento?
+4. Como se conecta ao meu repertório?
+5. Consigo aplicá-lo em outro contexto?
+
+O exemplo completo do processo seguro de administração de medicamentos, no Apêndice G, demonstra a passagem de cada camada aos registros e às tarefas.
 
 ### 4.12 Invariantes
 
@@ -576,12 +617,14 @@ O foco é evitar que estudantes permaneçam por longos períodos apenas em lembr
 
 ### 5.3 Ciclo problema–lacuna–fundamento–uso
 
+Em notação sintética, o ciclo não linear é: **problema autêntico → análise → lacunas → fundamentos → aplicação → avaliação/criação → feedback → transferência**.
+
 ```mermaid
 flowchart LR
-    P[Problema autêntico] --> H[Hipóteses iniciais]
-    H --> L[Lacunas identificadas]
-    L --> F[Fundamentos just-in-time]
-    F --> A[Aplicação e análise]
+    P[Problema autêntico] --> A0[Análise inicial]
+    A0 --> L[Identificação de lacunas]
+    L --> F[Fundamentos necessários]
+    F --> A[Aplicação]
     A --> E[Avaliação ou criação]
     E --> B[Feedback]
     B --> T[Transferência]
@@ -640,18 +683,18 @@ Apoios devem ser selecionados por barreira:
 8. transferência;
 9. carga e disparidades.
 
-### 5.9 Exemplo em Neurovisão
+### 5.9 Exemplo sintético: administração segura de medicamentos
 
-**Caso educacional hipotético:** uma pessoa apresenta boa acuidade estática, mas relata dificuldade em uma tarefa visual dinâmica. O objetivo não é estabelecer diagnóstico clínico, e sim organizar raciocínio.
+**Problema autêntico:** um medicamento correto chega ao paciente errado após uma sequência de prescrição, dispensação e administração. O estudante analisa inicialmente onde o sistema falhou, explicita lacunas, recupera fundamentos necessários, aplica barreiras de segurança, avalia alternativas, recebe feedback e transfere o raciocínio a outro processo de alto risco.
 
-- Blueprint: vias, funções e condições relevantes;
-- Teleonomia: que subsistemas contribuem para estabilidade, movimento ou seleção;
-- Relevância: elementos nucleares versus extensões;
-- tarefa inicial: explicar por que uma medida isolada não representa todas as funções;
-- lacunas: óptica, processamento, atenção, integração sensorial;
-- fundamentos: introduzidos conforme hipótese;
-- avaliação: comparar explicações, selecionar medidas e justificar limites;
-- transferência: novo caso com condições diferentes.
+- Blueprint: prescrição, validação, dispensação, identificação, preparo, administração, monitoramento e registro;
+- Teleonomia: contribuição funcional de cada etapa, dependências e consequências de falha;
+- Relevância: identificação e correspondência paciente–medicamento como Nucleares; consulta a protocolo como Habilitadora; arranjo local como Contextual; tecnologias especializadas como Extensão;
+- Taxonomia Acelerada: análise do incidente, aplicação das barreiras, avaliação de alternativas e criação de uma revisão do fluxo;
+- Ancoragem: portas de entrada distintas para saúde, engenharia, Administração e Direito, seguidas de linguagem comum de sistema sociotécnico;
+- transferência: aplicar a estrutura a transfusão de hemocomponentes, manutenção industrial ou controle de acesso.
+
+O Apêndice G apresenta nós, relações, funções, relevância, tarefas, evidências e ancoragens completas.
 
 ### 5.10 Exemplo fora da saúde
 
@@ -943,30 +986,40 @@ Programa mínimo:
 
 Formação deve usar o próprio MAPES: problema autêntico, mapa, prática, feedback e transferência.
 
-### 6.17 MAPES sem tecnologia
+### 6.17 Recursos de implementação
 
-Uma implementação pode usar quadro, cartões e discussão. Requisitos são pedagógicos, não digitais. Essa condição é importante para equidade e para separar efeito da teoria do efeito da plataforma.
+As funções do MAPES Core podem ser realizadas manualmente, digitalmente ou por combinação entre trabalho humano e automação. Quadro, cartões, planilhas, editores, plataformas e agentes de IA são recursos possíveis. Essa variedade não cria modalidades formais adicionais: os níveis continuam sendo MAPES Essencial, Padrão e Pesquisa. A distinção permite separar o efeito do framework do efeito de uma plataforma e preservar equidade de acesso.
 
-### 6.18 MAPES Core: arquitetura tecnológica opcional
+### 6.18 MAPES Core: arquitetura operacional normativa
 
 #### 6.18.1 Definição
 
-> MAPES Core é uma arquitetura computacional opcional que implementa regras e representações do MAPES para apoiar professores e estudantes, mantendo validação e decisão humanas.
+> MAPES Core é a arquitetura operacional normativa do framework que organiza funções, registros, gates de decisão, rastreabilidade e ciclos de revisão necessários a uma implementação MAPES.
 
-Não é o framework. Um produto pode implementar apenas parte do MAPES; deve declarar versão e fidelidade.
+O Core não é sinônimo do framework nem do BTTA. Ele pode ser executado sem software, com ferramentas digitais ou com combinação entre trabalho humano e automação. Quando houver produto digital, software e IA implementam funções do Core e devem declarar versão, cobertura e fidelidade.
 
 #### 6.18.2 Entradas
 
-**Universidade:** currículo, competências, carga horária, políticas, acessibilidade e critérios.  
-**Professor:** fontes, objetivos, casos, restrições e validações.  
+**Instituição:** currículo, competências, carga horária, políticas, acessibilidade, governança de dados e critérios.  
+**Professor:** fontes autorizadas, objetivos, casos, restrições, interpretações e validações.  
 **Estudante:** produtos, respostas, histórico e preferências de interface consentidas.  
-**Sistema:** grafos, ontologias, modelos e regras versionadas.
+**Core:** grafos, modelos, regras, fontes, conflitos, lacunas e versões.
 
 #### 6.18.3 Núcleo
 
 \[
-\text{MAPES Core} = \text{grafo} + \text{regras BTTA} + \text{relevância} + \text{modelo do estudante} + \text{alinhamento} + \text{auditoria}
+\text{MAPES Core} = \text{grafo} + \text{regras BTTA} + \text{relevância} + \text{alinhamento} + \text{proveniência} + \text{aprovação docente} + \text{versionamento}
 \]
+
+O núcleo deve manter:
+
+- fontes autorizadas e sua precedência;
+- proveniência de nós, relações, atividades, evidências e feedbacks;
+- rastreabilidade entre objetivos, tarefas, decisões e fontes;
+- conflitos entre fontes ou interpretações;
+- lacunas documentais e pedagógicas;
+- gate de aprovação docente antes de publicação ou uso de alto impacto;
+- histórico de versões, responsáveis, alterações e possibilidade de reversão.
 
 #### 6.18.4 Saídas
 
@@ -976,8 +1029,10 @@ Não é o framework. Um produto pode implementar apenas parte do MAPES; deve dec
 - casos;
 - feedback preliminar;
 - alertas;
-- relatórios;
+- relatórios docentes;
 - propostas de revisão.
+
+Relatórios docentes devem distinguir evidência observada de inferência e apresentar: evidência, confiança, alternativas explicativas, intervenções realizadas ou possíveis, evolução, recomendação não vinculante e decisão docente registrada.
 
 #### 6.18.5 Fluxo humano no circuito
 
@@ -999,17 +1054,31 @@ sequenceDiagram
 
 #### 6.18.6 Grafo do domínio e camada do estudante
 
-O grafo do domínio é comum e validado. A camada do estudante representa evidências, não identidade definitiva. Deve conter incerteza e prazo. Uma resposta errada não autoriza concluir incapacidade estável.
+O grafo do domínio é comum e validado. A camada do estudante representa evidências, não identidade definitiva. Somente são permitidas inferências provisórias sobre lacunas, com registro de:
+
+- evidência observada;
+- grau de confiança;
+- alternativas explicativas;
+- procedimento de confirmação;
+- data ou condição de revisão.
+
+Uma resposta errada não autoriza concluir incapacidade estável. O estudante pode solicitar ajuda, contestar a inferência e pedir revisão humana.
 
 #### 6.18.7 Individualização, personalização e adaptação
 
-- individualização: ritmo e apoio;
-- personalização: exemplos e percurso;
-- adaptação: mudança baseada em evidência.
+- **individualização:** variação de ritmo, quantidade de prática e apoio;
+- **personalização:** variação de exemplos, linguagem e contexto de entrada;
+- **adaptação:** mudança dinâmica do percurso baseada em evidências revisáveis.
 
 Nenhuma permite reduzir padrões nucleares sem decisão pedagógica documentada.
 
-#### 6.18.8 IA como apoio documental
+#### 6.18.8 Autoria assistida e IA
+
+A autoria assistida distribui responsabilidades sem deslocar a autoridade acadêmica:
+
+- **IA:** estrutura e propõe, podendo extrair, comparar, detectar lacunas e produzir versões preliminares;
+- **professor:** define, valida, interpreta e decide, incluindo escopo, ciência, prioridades, atividades, avaliações e intervenções;
+- **instituição:** estabelece políticas, limites, privacidade, segurança, responsabilização e governança.
 
 A IA pode:
 
@@ -1022,7 +1091,7 @@ A IA pode:
 7. adaptar linguagem inicial;
 8. resumir desempenho.
 
-O professor valida. Saídas não aprovadas devem ser identificadas como rascunho.
+O professor valida. Saídas não aprovadas devem ser identificadas como rascunho, e a instituição deve assegurar condições reais para revisão.
 
 #### 6.18.9 Proveniência
 
@@ -1054,9 +1123,15 @@ IA explicável em educação é requisito de confiança e contestabilidade (Khos
 
 Aplicar minimização de dados, separação de finalidade, retenção limitada, controle de acesso e avaliação de disparidades. Algoritmos educacionais podem reproduzir viés (Idowu, 2024). Não usar inferências sensíveis sem necessidade, consentimento e base legal.
 
-#### 6.18.12 Avaliação de alto impacto
+#### 6.18.12 Risco, intervenção e revisão humana
 
-Notas finais, progressão, sanções ou diagnósticos não devem ser decididos exclusivamente por IA. O professor revisa evidência e contexto.
+As automações e recomendações são classificadas pelo impacto:
+
+- **baixo risco:** automação registrada e reversível;
+- **risco intermediário:** recomendação com revisão por gatilho, amostragem ou antes de produzir consequência relevante;
+- **alto risco:** revisão humana prévia obrigatória.
+
+Notas finais, progressão, redução de exigências, sanções, diagnósticos e encaminhamentos são de alto risco e não podem ser decididos exclusivamente por IA. O pedido de ajuda do estudante é gatilho prioritário de atenção, independentemente das métricas.
 
 #### 6.18.13 Critérios de fidelidade de produto
 
@@ -1074,9 +1149,15 @@ Um produto que se identifica como MAPES deve:
 
 ### 6.19 Papel institucional
 
-A universidade define padrões, proteção de dados, formação, suporte e avaliação. A adoção não deve ser compra de ferramenta sem teoria de mudança. Professores e estudantes devem participar da governança do produto.
+A instituição define padrões, proteção de dados, formação, suporte e avaliação. A adoção não deve ser compra de ferramenta sem teoria de mudança. Professores e estudantes devem participar da governança do produto. Cada adoção deve manter um **Perfil Institucional MAPES** com versão adotada, adaptações, componentes omitidos, tecnologias, políticas de dados, critérios de avaliação, responsáveis e justificativas.
 
-### 6.20 Dinâmica iterativa
+Evidências agregadas e adequadamente protegidas produzidas pelo Core podem subsidiar, de forma informativa, a revisão do Projeto Pedagógico Institucional (PPI), do Plano de Desenvolvimento Institucional (PDI) e da avaliação institucional. PPI, PDI e seus processos de aprovação são documentos institucionais externos ao escopo do MAPES; o Core não os produz nem os substitui.
+
+### 6.20 PDCA como macroestrutura administrativa
+
+O PDCA pode organizar a gestão institucional em **Planejar, Executar, Verificar e Ajustar**. Ele não substitui o ciclo pedagógico MAPES. Dentro dessa macroestrutura permanecem Blueprint, análise funcional, relevância, ativação cognitiva, ancoragem, tarefa, avaliação, feedback e transferência.
+
+### 6.21 Dinâmica iterativa
 
 O ciclo MAPES opera em três escalas:
 
@@ -1133,11 +1214,13 @@ Artefato é meio que torna uma operação possível ou observável. Ele deve ser
 |---|---|---|---|---|---|
 | | | | | | |
 
-### 7.6 Matriz de ativação cognitiva
+### 7.6 Matriz normativa de alinhamento e rastreabilidade
 
-| Resultado | Operação | Condições | Tarefa | Produto | Critério | Apoio | Transferência |
-|---|---|---|---|---|---|---|---|
-| | | | | | | | |
+Esta matriz é instrumento normativo do MAPES Core em implementações Padrão e Pesquisa. No nível Essencial, os mesmos vínculos podem ser registrados de forma abreviada.
+
+| Objetivo | Nó principal | Nós relacionados | Relação | Função | Operação cognitiva | Relevância | Tarefa | Evidência | Feedback | Fonte | Confiança |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | | | | |
 
 ### 7.7 Roteiro de Ancoragem Contextual
 
@@ -1242,6 +1325,14 @@ O estudante pode manter:
 - feedback;
 - transferência;
 - reflexão de confiança.
+
+O caderno deve tornar recorrentes as cinco perguntas metacognitivas:
+
+1. Onde isto se encontra no sistema?
+2. Que contribuição funcional desempenha?
+3. O que preciso fazer com esse conhecimento?
+4. Como se conecta ao meu repertório?
+5. Consigo aplicá-lo em outro contexto?
 
 ### 7.16 Portfólio
 
@@ -1416,19 +1507,31 @@ Pontuação não deve virar certificação antes de validação.
 
 ### 8.13 Meta-avaliação
 
-A meta-avaliação examina:
+A meta-avaliação mantém quatro níveis distintos:
 
-- utilidade;
-- viabilidade;
-- propriedade ética;
-- precisão;
-- transparência;
-- equidade;
-- custo;
-- efeitos adversos;
-- capacidade de revisão.
+1. **estudante:** validade, justiça e utilidade das inferências sobre aprendizagem;
+2. **aula ou unidade:** alinhamento, qualidade pedagógica, fidelidade e efeitos;
+3. **implementação tecnológica:** precisão, explicabilidade, segurança, acessibilidade, custo e reversibilidade;
+4. **proposições do MAPES:** sustentação, limites, resultados nulos, efeitos adversos e necessidade de revisão do framework.
 
-### 8.14 Indicadores de processo
+Em todos os níveis examinam-se utilidade, viabilidade, propriedade ética, precisão, transparência, equidade, custo, efeitos adversos e capacidade de revisão. Satisfação e engajamento não equivalem à aprendizagem.
+
+### 8.14 Mensuração multidimensional da qualidade do MAPES
+
+A qualidade de uma implementação deve ser examinada em seis domínios. Os resultados permanecem separados até que estudos demonstrem validade para qualquer composição; a versão 0.10.0 **não autoriza escore agregado de qualidade**.
+
+| Domínio | Objeto | Exemplos de evidência |
+|---|---|---|
+| Fidelidade estrutural | preservação dos invariantes e relações do MAPES | sistema e fronteira, relações funcionalmente justificadas, progressão observável, desancoragem, transferência, alinhamento, revisão docente e rastreabilidade |
+| Qualidade pedagógica | coerência do desenho, mediação e adequação dos apoios | autenticidade da tarefa, scaffolding, feedback, acessibilidade, carga e qualidade da ancoragem |
+| Aprendizagem | mudanças demonstradas pelo estudante | precisão, compreensão relacional, explicação funcional, aplicação, retenção, calibração e transferência |
+| Qualidade operacional | viabilidade e confiabilidade do processo e das ferramentas | tempo líquido, erros, disponibilidade, reversibilidade, versionamento, segurança e custo |
+| Valor institucional | contribuição para decisões e melhoria organizacional | adoção sustentável, formação, equidade, portabilidade e evidências agregadas úteis a processos institucionais |
+| Qualidade das inferências | validade, incerteza e contestabilidade das conclusões | evidência usada, confiança, alternativas explicativas, confirmação, revisão, disparidades e concordância humana |
+
+Cada domínio deve declarar indicadores, fonte de dados, responsável, periodicidade, limitações e critério de revisão. Medidas objetivas são desejáveis, mas não dispensam interpretação contextual nem validação dos instrumentos.
+
+### 8.15 Indicadores de processo
 
 - tempo docente;
 - número de revisões;
@@ -1440,11 +1543,11 @@ A meta-avaliação examina:
 - acessibilidade;
 - taxa de correção de IA.
 
-### 8.15 Experiência não é aprendizagem
+### 8.16 Experiência não é aprendizagem
 
 Satisfação, clareza e interesse são relevantes, mas secundários. Podem divergir de aprendizagem (Deslauriers et al., 2019).
 
-### 8.16 Equidade
+### 8.17 Equidade
 
 Examinar:
 
@@ -1458,7 +1561,7 @@ Examinar:
 
 Diferenças devem ser interpretadas com cautela e não transformar categorias em causas.
 
-### 8.17 Carga docente
+### 8.18 Carga docente
 
 Medir:
 
@@ -1472,23 +1575,27 @@ Medir:
 
 IA pode reduzir geração e aumentar revisão; o resultado líquido é empírico.
 
-### 8.18 Custo e sustentabilidade
+### 8.19 Custo e sustentabilidade
 
 Avaliar licenças, infraestrutura, formação, suporte, atualização, dependência e portabilidade. Uma intervenção eficaz pode ser inviável.
 
-### 8.19 Painel de decisão
+### 8.20 Painel de decisão
 
 Um painel MAPES não deve resumir tudo em nota. Deve mostrar:
 
 - resultados primários;
 - incerteza;
+- evidência que sustenta cada inferência;
+- confiança e alternativas explicativas;
+- intervenções e evolução;
 - fidelidade;
 - disparidades;
 - custo;
 - comentários qualitativos;
-- recomendação e responsável.
+- recomendação não vinculante;
+- decisão docente e responsável.
 
-### 8.20 Ciclo de melhoria
+### 8.21 Ciclo de melhoria
 
 ```mermaid
 flowchart LR
@@ -1619,7 +1726,7 @@ Papéis possíveis: conceituação, metodologia, software, validação, investig
 
 ### 9.13 Citação oficial
 
-> de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.9.0) [Manuscrito teórico-metodológico em preparação]. Projeto MAPES/LAPAN-UFMG.
+> de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
 
 Exemplos:
 
@@ -1648,17 +1755,17 @@ Princípios FAIR orientam encontrabilidade e reutilização, sem obrigar abertur
 
 O Núcleo deve escolher licença após análise institucional e estratégia de produto. A licença da teoria pode diferir da licença do software. O uso da marca MAPES pode exigir política própria.
 
-### 9.16 Governança teórica e do produto
+### 9.16 Governança do framework, do produto e da instituição
 
-| Teoria | Produto |
-|---|---|
-| define constructos | implementa funcionalidades |
-| aprova versão | gerencia releases |
-| controla alegações | monitora operação |
-| mantém manual | mantém código |
-| avalia fidelidade | avalia segurança/usabilidade |
+| Governança do framework | Governança do produto/Core digital | Governança institucional |
+|---|---|---|
+| define constructos e terminologia | implementa funcionalidades | define currículo e usos locais |
+| aprova versões do MAPES | gerencia código, interfaces e releases | aprova o Perfil Institucional MAPES |
+| controla alegações científicas | monitora operação, segurança e suporte | governa dados, acessos e retenção |
+| mantém manual e critérios de fidelidade | mantém interoperabilidade e auditabilidade | assegura formação, revisão humana e canais de contestação |
+| avalia evidências e revisa proposições | corrige incidentes e documenta versões | avalia valor, equidade, custos e conformidade |
 
-A empresa não pode redefinir pilares nem usar métricas comerciais como validação científica.
+Produto, fornecedor ou instituição não podem redefinir unilateralmente os pilares nem usar métricas comerciais como validação científica. Mudanças locais devem ser declaradas no Perfil Institucional, e alterações do framework seguem a governança científica.
 
 ### 9.17 Gatilhos para expansão
 
@@ -2068,6 +2175,8 @@ Zhang, H., Miller, K. F., Sun, X., & Cortina, K. S. (2020). Wandering eyes: Eye 
 
 **Artefato:** recurso material, textual, visual ou digital que sustenta operação pedagógica identificável.
 
+**Autoria assistida:** arranjo no qual IA estrutura e propõe; professor define, valida, interpreta e decide; instituição estabelece políticas e governança.
+
 **Ativação Cognitiva Acelerada:** mecanismo interno da Taxonomia Acelerada que antecipa e torna recorrentes tarefas cognitivamente complexas.
 
 **Blueprint funcional:** constructo que representa a arquitetura multiescalar do domínio.
@@ -2086,11 +2195,15 @@ Zhang, H., Miller, K. F., Sun, X., & Cortina, K. S. (2020). Wandering eyes: Eye 
 
 **Grafo sistêmico funcional:** formalização do Blueprint por nós, relações tipadas, estados, pesos, tempo e proveniência.
 
-**MAPES Core:** arquitetura computacional opcional que implementa regras e representações do MAPES sob controle humano.
+**MAPES Core:** arquitetura operacional normativa do framework que organiza funções, registros, gates de decisão, rastreabilidade e revisão; pode ser executada manualmente, digitalmente ou por combinação entre trabalho humano e automação.
 
 **Mapa funcional:** visualização pedagógica de um grafo ou sistema para público e tarefa determinados.
 
 **Meta-avaliação:** avaliação da qualidade, utilidade, ética, precisão, equidade e viabilidade da própria avaliação.
+
+**PDI:** Plano de Desenvolvimento Institucional, documento institucional externo ao escopo do MAPES; não designa plano individual de aprendizagem.
+
+**PDCA:** macroestrutura administrativa de Planejar, Executar, Verificar e Ajustar; não substitui o ciclo pedagógico MAPES.
 
 **Proveniência:** registro da origem, transformação, revisão e versão de uma informação ou artefato.
 
@@ -2258,69 +2371,94 @@ Além da ficha Padrão, registrar:
 | Evidência | produto superficial | resposta correta | justificativa | revisão e transferência |
 | Equidade | barreiras ignoradas | adaptação ad hoc | apoio planejado | disparidades monitoradas |
 
-### Apêndice G — Exemplo completo de unidade hipotética em Neurovisão
+### Apêndice G — Exemplo completo: processo seguro de administração de medicamentos
 
-#### G.1 Finalidade
+#### G.1 Finalidade, público e fronteira
 
-Ensinar que desempenho visual não pode ser representado por uma única medida e que diferentes funções dependem de componentes e condições distintas. Trata-se de exemplo educacional; não estabelece protocolo clínico.
+O exemplo ensina a analisar a administração segura de medicamentos como sistema sociotécnico. Destina-se a turma interdisciplinar de graduação ou formação profissional. Inclui prescrição, validação, dispensação, identificação do paciente, preparo, administração, monitoramento e registro; exclui farmacologia molecular sem função na decisão focal. O caso é educacional e não substitui protocolos clínicos ou normas institucionais.
 
-#### G.2 Público
+#### G.2 Problema autêntico
 
-Turma interdisciplinar de graduação/pós-graduação com estudantes de saúde, engenharia e áreas afins.
+Um medicamento prescrito para o paciente A é separado corretamente, mas administrado ao paciente B após troca de leitos e interrupção durante o preparo. A equipe detecta o erro no monitoramento. O estudante deve localizar falhas, explicar contribuições funcionais, priorizar barreiras e propor revisão rastreável do processo.
 
-#### G.3 Sistema e fronteira
+#### G.3 Nós e relações
 
-Sistema visual funcional durante tarefa dinâmica de leitura/navegação. Inclui entrada óptica, processamento, integração, resposta e contexto. Exclui detalhes moleculares não necessários à decisão.
-
-#### G.4 Vista nuclear do grafo
+| Nó | Tipo | Relações principais |
+|---|---|---|
+| prescrição | informação/decisão | autoriza → validação; especifica → medicamento, dose, via e tempo |
+| validação | controle | verifica → prescrição; libera → dispensação |
+| dispensação | processo | fornece → medicamento identificado |
+| identificação do paciente | barreira | confirma correspondência → paciente–prescrição |
+| preparo | processo | transforma → medicamento pronto; depende de → prescrição e identificação |
+| administração | ação | entrega → medicamento ao paciente; depende de → correspondências verificadas |
+| monitoramento | controle/feedback | detecta → resposta e evento adverso; informa → intervenção |
+| registro | memória/auditoria | documenta → ações, evidências e responsáveis |
+| interrupção | condição | aumenta risco em → preparo e conferência |
+| mudança de leito | condição | altera → contexto de identificação |
 
 ```mermaid
 flowchart LR
-    A[Condições da tarefa] --> B[Entrada óptica]
-    B --> C[Codificação neural]
-    C --> D[Processamento e integração]
-    D --> E[Decisão/ação]
-    E --> F[Desempenho percebido]
-    F --> A
-    G[Atenção e estado] --> D
-    H[Experiência prévia] --> D
-    I[Ambiente] --> A
+    P[Prescrição] --> V[Validação]
+    V --> D[Dispensação]
+    D --> PR[Preparo]
+    I[Identificação do paciente] --> PR
+    PR --> A[Administração]
+    A --> M[Monitoramento]
+    M --> R[Registro e revisão]
+    R --> P
+    X[Interrupção] -. aumenta risco .-> PR
+    L[Mudança de leito] -. exige reconfirmação .-> I
 ```
 
-As relações são hipóteses de organização pedagógica, não modelo clínico exaustivo.
+#### G.4 Funções e relevância
 
-#### G.5 Teleonomia
+| Elemento/relação | Contribuição funcional | Consequência de falha | Classe | Justificativa |
+|---|---|---|---|---|
+| prescrição → validação | torna a ordem verificável antes da execução | erro não interceptado | Nuclear | alta centralidade, criticidade e risco do erro |
+| identificação → correspondência | vincula paciente, prescrição e medicamento | administração ao paciente errado | Nuclear | precedência obrigatória e alto risco |
+| dispensação → preparo | disponibiliza o item correto e rastreável | troca, atraso ou perda de proveniência | Nuclear | frequência e criticidade |
+| interrupção → preparo | modifica condição de execução | omissão ou troca durante retomada | Contextual | relevância depende do ambiente, com alta transferência |
+| consulta ao protocolo | habilita conferência padronizada | variabilidade não controlada | Habilitadora | precedência e frequência |
+| automação por código de barras | amplia a barreira de correspondência | confiança indevida ou falha técnica | Extensão | tecnologia útil, mas não define o núcleo do processo |
 
-| Elemento | Contribuição | Falha/variação educacionalmente relevante |
+A classificação considera centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro. Ela não determina a operação cognitiva.
+
+#### G.5 Taxonomia Acelerada e tarefa cognitiva
+
+1. **Problema autêntico:** apresentar o incidente sem explicação final.
+2. **Análise inicial:** cada grupo constrói uma cadeia causal provisória e marca evidências ausentes.
+3. **Lacunas:** distinguir erro ativo, condição, barreira, correspondência e feedback.
+4. **Fundamentos:** introduzir os conceitos e o protocolo autorizado necessários às lacunas.
+5. **Aplicação:** redesenhar o fluxo com pontos de verificação.
+6. **Avaliação/criação:** comparar duas propostas e criar uma versão justificável.
+7. **Feedback:** professor e pares confrontam relações, fontes, riscos e atalhos.
+8. **Transferência:** aplicar a estrutura a outro processo de alto risco.
+
+**Evidência esperada:** o estudante localiza o ponto de falha, relaciona pelo menos quatro nós, explica a função de duas barreiras, justifica a relevância pelos critérios e declara incertezas.
+
+#### G.6 Ancoragens e desancoragem
+
+| Porta de entrada | Âncora inicial | Transição para o núcleo comum |
 |---|---|---|
-| Entrada óptica | fornece sinal | redução/alteração do sinal |
-| Codificação | converte e transmite | perda de informação |
-| Integração | combina pistas | desempenho depende da tarefa |
-| Atenção/estado | modula seleção | variabilidade contextual |
-| Ação | fecha ciclo | erro ou compensação |
+| Saúde | conferência à beira do leito e segurança do paciente | sistema sociotécnico, barreiras, correspondência e monitoramento |
+| Engenharia | análise de perigos, redundância e controle de processo | nós, dependências, condições, falha e feedback |
+| Administração | processo, responsabilidade, recursos e indicadores | governança do fluxo, rastreabilidade e melhoria contínua |
+| Direito | dever de cuidado, evidência documental e responsabilização | norma, decisão, nexo, registro, incerteza e revisão |
 
-#### G.6 Relevância
+Depois da entrada, todos os estudantes usam o mesmo vocabulário disciplinar, os mesmos nós nucleares e os mesmos critérios de evidência. A desancoragem exige explicar o processo sem depender da metáfora profissional de origem.
 
-- nuclear: distinção entre medida e sistema;
-- habilitadora: conceitos mínimos de sinal e processamento;
-- contextual: instrumentos específicos;
-- extensão: detalhes especializados.
+#### G.7 Tarefa de transferência
 
-#### G.7 Problema inicial
+Aplicar a arquitetura a um cenário de transfusão de hemocomponentes em que há mudança de identificação durante o transporte. O estudante deve:
 
-“Duas pessoas obtêm o mesmo resultado em medida estática, mas relatam desempenho diferente em tarefa dinâmica. Construa três explicações possíveis e indique que evidência distinguiria entre elas.”
+- selecionar nós que permanecem e os que mudam;
+- reconstruir relações e funções;
+- reclassificar relevância quando necessário;
+- propor uma barreira;
+- declarar fonte, evidência, confiança e alternativa explicativa;
+- indicar que decisão exige revisão humana.
 
-#### G.8 Fundamentos just-in-time
-
-O professor introduz conceitos quando as hipóteses revelam lacunas. Modela diferença entre componente, função, medida e inferência.
-
-#### G.9 Tarefa de avaliação
-
-Estudantes recebem novo caso, selecionam relações, propõem medidas e justificam limites. Rubrica avalia arquitetura, função, evidência e incerteza.
-
-#### G.10 Transferência
-
-Aplicar o mesmo raciocínio a sistema auditivo ou controle de processo industrial: por que uma métrica isolada não representa toda a função?
+A avaliação verifica transferência estrutural, não semelhança superficial.
 
 ### Apêndice H — Exemplo interdisciplinar em sustentabilidade
 
@@ -2360,20 +2498,25 @@ Produzir intervenção, prever efeitos colaterais, definir indicadores e respond
 
 #### Requisitos funcionais
 
+- cadastro de fontes autorizadas e precedência;
 - ingestão de fontes;
 - extração assistida;
 - edição de grafos;
 - tipos de relações;
-- proveniência;
+- proveniência e rastreabilidade;
+- registro de conflitos e lacunas;
 - relevância;
-- matriz cognitiva;
+- matriz normativa de alinhamento;
 - geração de tarefas;
 - rubricas;
 - modelo do estudante;
 - feedback;
-- dashboard docente;
+- relatórios docentes com evidência, confiança, alternativas, intervenções, evolução, recomendação e decisão;
+- gate de aprovação docente;
+- classificação de risco;
+- solicitação de ajuda, contestação e revisão humana;
 - exportação;
-- versões.
+- versões e reversão.
 
 #### Requisitos não funcionais
 
@@ -2396,7 +2539,9 @@ Produzir intervenção, prever efeitos colaterais, definir indicadores e respond
 - transferência;
 - não dependência de estilos fixos;
 - visibilidade de fontes;
-- possibilidade de contestação.
+- inferências provisórias e revisáveis;
+- possibilidade de contestação e pedido de ajuda;
+- revisão humana proporcional ao risco.
 
 #### Eventos auditáveis
 
@@ -2404,6 +2549,8 @@ Produzir intervenção, prever efeitos colaterais, definir indicadores e respond
 - geração de tarefa;
 - recomendação;
 - aprovação/rejeição;
+- contestação ou pedido de ajuda;
+- revisão humana;
 - mudança de modelo;
 - decisão avaliativa;
 - acesso a dado;
@@ -2543,22 +2690,20 @@ Produzir intervenção, prever efeitos colaterais, definir indicadores e respond
 ```markdown
 # CHANGELOG — MAPES
 
-## [0.9.0] — 2026-07-24
+## [0.10.0] — 2026-07-29
 
 ### Adicionado
-- Contextualização acadêmica da ecologia atencional.
-- Grafo sistêmico funcional como formalização do Blueprint.
-- Estratificação de Relevância Sistêmica.
-- Níveis Essencial, Padrão e Pesquisa.
-- MAPES Core e princípio de agência docente.
-- Governança piloto enxuta.
+- Definição canônica pedagógica, metodológica e institucional.
+- MAPES Core como arquitetura operacional normativa.
+- Mensuração multidimensional sem escore agregado.
+- Autoria assistida e governança em três esferas.
+- Perfil Institucional MAPES e matriz normativa.
 
 ### Alterado
-- Taxonomia Acelerada definida como ativação cognitiva precoce e recorrente.
-- Governança substituída por modelo proporcional à fase piloto.
+- Pesquisa descrita como investigação, validação e aperfeiçoamento.
+- Exemplo completo substituído pelo processo seguro de administração de medicamentos.
 
 ### Limitações
-- Documento VELCRO ainda não incorporado ao corpus.
 - Framework integrado ainda sem validação empírica.
 ```
 
@@ -2578,19 +2723,18 @@ Não se deve preencher contribuições por inferência externa.
 
 Até revisão formal, consideram-se vigentes:
 
-1. MAPES é framework e teoria em elaboração.
+1. MAPES é framework pedagógico, metodológico e institucional de aplicação transversal.
 2. Seu objetivo é melhorar formação do estudante e apoiar o professor.
 3. A crise de atenção é tratada como ecologia multifatorial, não déficit universal.
 4. Blueprint é constructo; grafo é formalização; mapa é vista.
 5. Teleonomia exclui finalismo.
 6. Taxonomia Acelerada antecipa operações complexas e mantém fundamentos.
-7. Relevância é dimensão separada.
+7. Relevância é dimensão separada e não constitui quinto pilar.
 8. Ancoragem varia entrada e preserva validade.
-9. Implementação pode ser não tecnológica.
-10. IA é apoio, não autoridade final.
+9. As funções do Core podem ser realizadas manualmente, digitalmente ou por combinação entre trabalho humano e automação.
+10. Software e IA são recursos de implementação, não ontologia principal.
 11. Professor valida e decide.
 12. Documentação é proporcional.
-13. Governança piloto é enxuta.
+13. Governança do framework, do produto e da instituição são distintas.
 14. Evidência pode modificar o framework.
 15. A versão 1.0 depende de critérios, não de calendário.
-

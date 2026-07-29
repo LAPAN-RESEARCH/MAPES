@@ -1,16 +1,16 @@
 # Registro de decisões estruturais — MAPES
 
-**Versão associada:** 0.9.0  
-**Data de consolidação:** 24 de julho de 2026  
+**Versão associada:** 0.10.0  
+**Data de consolidação:** 29 de julho de 2026  
 **Função:** preservar decisões conceituais, operacionais, tecnológicas e de governança que alteram a identidade do framework.
 
-Este registro não substitui atas institucionais nem a aprovação formal dos autores. Ele documenta as decisões consolidadas durante o ciclo de desenvolvimento que originou a versão 0.9.0.
+Este registro não substitui atas institucionais nem a aprovação formal dos autores. Ele documenta as decisões consolidadas até a versão 0.10.0.
 
 ## D-001 — Estatuto epistemológico
 
-**Decisão:** apresentar o MAPES como **framework pedagógico e teoria em elaboração**, não como teoria validada ou intervenção comprovadamente superior.
+**Decisão:** apresentar o MAPES como **framework pedagógico, metodológico e institucional de aplicação transversal**, sem acrescentar estatuto teórico à sua definição.
 
-**Justificativa:** o núcleo conceitual está suficientemente articulado para gerar constructos, mecanismos e proposições, mas ainda não há programa empírico concluído que sustente eficácia, validade transversal ou superioridade.
+**Justificativa:** o framework está conceitualmente articulado e possui constructos, mecanismos e proposições. Sua investigação acadêmica permanece necessária, mas não define sua natureza.
 
 **Consequências:**
 
@@ -28,6 +28,8 @@ Este registro não substitui atas institucionais nem a aprovação formal dos au
 **Formulação normativa:**
 
 > A IA estrutura, compara e propõe; o professor define, valida, interpreta, decide e responde pelas consequências.
+
+A instituição estabelece políticas, limites e governança. Esse arranjo é denominado autoria assistida.
 
 **Funções não delegáveis integralmente:** finalidade educacional, seleção do que é epistemicamente relevante, validação do domínio, mediação humana, interpretação de contexto, avaliação de alto impacto, equidade e responsabilidade ética.
 
@@ -49,7 +51,7 @@ Este registro não substitui atas institucionais nem a aprovação formal dos au
 
 **Limite:** o MAPES não é tratamento clínico, e o diagnóstico educacional não deve ser confundido com transtornos de atenção.
 
-**Status:** vigente. O documento VELCRO deverá ser incorporado apenas quando disponibilizado e auditado.
+**Status:** vigente.
 
 ## D-004 — Blueprint, grafo e mapa
 
@@ -99,7 +101,7 @@ Este registro não substitui atas institucionais nem a aprovação formal dos au
 3. Contextual;
 4. Extensão.
 
-**Formalização:** cada elemento pode receber anotações independentes de operação cognitiva esperada e relevância sistêmica.
+**Formalização:** cada elemento pode receber anotações independentes de operação cognitiva esperada e relevância sistêmica. A relevância considera centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro e não constitui quinto pilar.
 
 **Status:** vigente.
 
@@ -125,7 +127,7 @@ Este registro não substitui atas institucionais nem a aprovação formal dos au
 
 ## D-010 — MAPES Core
 
-**Decisão:** admitir o MAPES como núcleo pedagógico e semântico de produto EdTech, sem tornar tecnologia condição do framework.
+**Decisão:** definir o MAPES Core como arquitetura operacional normativa do framework. Suas funções podem ser executadas manualmente, digitalmente ou por combinação entre trabalho humano e automação.
 
 **Componentes:**
 
@@ -136,7 +138,9 @@ Este registro não substitui atas institucionais nem a aprovação formal dos au
 - geração e orquestração de tarefas e artefatos;
 - proveniência, explicabilidade e auditoria.
 
-**Separações:** grafo do domínio, estado do estudante e percurso instrucional não são a mesma coisa; governança da teoria e governança do produto são distintas.
+**Controles obrigatórios:** fontes autorizadas, rastreabilidade, conflitos, lacunas, gate docente, versionamento e inferências provisórias.
+
+**Separações:** `MAPES ≠ BTTA ≠ MAPES Core`; software e IA são recursos de implementação; grafo do domínio, estado do estudante e percurso instrucional não são a mesma coisa.
 
 **Status:** vigente.
 
@@ -165,7 +169,7 @@ Este registro não substitui atas institucionais nem a aprovação formal dos au
 
 **Citação vigente:**
 
-> de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.9.0) [Manuscrito teórico-metodológico em preparação]. Projeto MAPES/LAPAN-UFMG.
+> de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
 
 **Pendência:** atualizar com DOI ou URL persistente após depósito.
 
@@ -200,5 +204,54 @@ Este registro não substitui atas institucionais nem a aprovação formal dos au
 - interpretação.
 
 **Consequência:** a força verbal deve corresponder à força da evidência.
+
+**Status:** vigente.
+
+## D-015 — Mensuração multidimensional
+
+**Decisão:** avaliar a qualidade do MAPES em seis domínios separados:
+
+1. fidelidade estrutural;
+2. qualidade pedagógica;
+3. aprendizagem;
+4. qualidade operacional;
+5. valor institucional;
+6. qualidade das inferências.
+
+**Limite:** não criar escore agregado antes de validação.
+
+**Status:** vigente.
+
+## D-016 — Inferências, risco e direitos do estudante
+
+**Decisão:** inferências sobre lacunas são provisórias e registram evidência, confiança, alternativas, confirmação e revisão.
+
+**Risco:** baixo implica automação registrada e reversível; intermediário implica recomendação com revisão; alto implica revisão humana prévia.
+
+**Direitos:** solicitar ajuda, contestar inferências e pedir revisão humana.
+
+**Status:** vigente.
+
+## D-017 — Perfil Institucional e governança
+
+**Decisão:** toda adoção institucional mantém Perfil Institucional MAPES e separa governança do framework, governança do produto/Core digital e governança institucional.
+
+**Limite:** adaptações locais não redefinem unilateralmente os pilares.
+
+**Status:** vigente.
+
+## D-018 — PDI
+
+**Decisão:** PDI significa exclusivamente Plano de Desenvolvimento Institucional. É documento institucional externo ao escopo do MAPES.
+
+**Uso permitido:** evidências agregadas e protegidas do Core podem subsidiar PPI, PDI e avaliação institucional sem produzi-los ou substituí-los.
+
+**Status:** vigente.
+
+## D-019 — Exemplo e piloto
+
+**Decisão:** o documento fundador usa o processo seguro de administração de medicamentos como exemplo completo e não incorpora protocolo de piloto específico.
+
+**Backlog:** viabilidade, aceitabilidade, usabilidade, engajamento, aprendizagem, retenção, transferência, fidelidade, custos, equidade, precisão das inferências, resistência/aceitação docente e T0–T3 permanecem em documento separado.
 
 **Status:** vigente.

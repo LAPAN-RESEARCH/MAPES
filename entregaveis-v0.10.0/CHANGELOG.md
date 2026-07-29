@@ -11,12 +11,56 @@ Todas as alterações relevantes ao MAPES devem ser registradas neste arquivo. O
 
 ### Pendente
 
-- Incorporação e reconciliação documental do material VELCRO, ainda não disponível no corpus utilizado nesta versão.
 - Confirmação da declaração CRediT pelos autores-fundadores.
 - Depósito em repositório institucional e inclusão de URL persistente ou DOI.
 - Definição institucional de licença do documento, dos instrumentos e de eventual software.
 - Revisão externa por especialistas independentes.
 - Registro e execução da revisão sistemática formal com dupla triagem e diagrama PRISMA.
+
+## [0.10.0] — 2026-07-29
+
+**Status:** consolidação normativa do framework, ainda sem validação empírica como sistema integrado.
+
+### Adicionado
+
+- definição canônica do MAPES como framework pedagógico, metodológico e institucional de aplicação transversal;
+- distinção `MAPES ≠ BTTA ≠ MAPES Core`;
+- MAPES Core como arquitetura operacional normativa, executável manualmente, digitalmente ou por combinação entre trabalho humano e automação;
+- especificação autônoma do Core, Manual de Implementação, Glossário Normativo e Perfil Institucional MAPES;
+- relação detalhada entre Blueprint/topologia, Teleonomia/semântica funcional, Taxonomia Acelerada/operações e tarefas, Ancoragem Contextual/portas de entrada e Relevância/prioridade;
+- exemplo completo sobre administração segura de medicamentos, com ancoragens para Saúde, Engenharia, Administração e Direito;
+- critérios de relevância: centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro;
+- autoria assistida com responsabilidades de IA, professor e instituição;
+- fontes autorizadas, proveniência, rastreabilidade, conflitos, lacunas, gate docente e versionamento no Core;
+- matriz normativa de alinhamento e rastreabilidade;
+- inferências provisórias com evidência, confiança, alternativas, confirmação e revisão;
+- níveis de risco e direitos de ajuda, contestação e revisão humana;
+- mensuração em seis domínios, sem escore agregado antes de validação;
+- quatro níveis de meta-avaliação;
+- backlog separado para futuro protocolo do piloto de Neurovisão;
+- protocolo metacognitivo de cinco perguntas;
+- PDCA limitado à macroestrutura administrativa.
+
+### Alterado
+
+- removido da caracterização principal o estatuto teórico que concorria com a definição do framework;
+- pesquisa reformulada como programa de investigação, validação e aperfeiçoamento;
+- MAPES Core passou de camada tecnológica não normativa a arquitetura operacional normativa;
+- software e IA passaram a ser explicitamente recursos de implementação do Core;
+- governança separada em framework, produto/Core digital e instituição;
+- relatórios docentes ampliados com evidência, confiança, alternativas, intervenções, evolução, recomendação e decisão;
+- PDI reservado a Plano de Desenvolvimento Institucional, externo ao escopo do MAPES;
+- exemplo privilegiado de Neurovisão removido do documento fundador.
+
+### Preservado
+
+- proposições testáveis, condições de contorno, fidelidade, critérios de revisão/refutação e agenda de pesquisa;
+- Blueprint funcional em sua definição formal vigente;
+- ciclo não linear da Taxonomia Acelerada;
+- separação entre relevância e complexidade cognitiva;
+- Ancoragem, desancoragem e transferência;
+- níveis Essencial, Padrão e Pesquisa;
+- ordem de autoria.
 
 ## [0.9.0] — 2026-07-24
 
@@ -35,7 +79,7 @@ Todas as alterações relevantes ao MAPES devem ser registradas neste arquivo. O
 - Definição operacional da Taxonomia Acelerada como ativação precoce e recorrente de aplicação, análise, avaliação e criação, com fundamentos mobilizados de modo oportuno.
 - Ciclo problema autêntico → análise inicial → identificação de lacunas → fundamentos *just-in-time* → aplicação → avaliação/criação → feedback e transferência.
 - Três níveis proporcionais de implementação e documentação: MAPES Essencial, MAPES Padrão e MAPES Pesquisa.
-- Especificação do **MAPES Core** como arquitetura tecnológica opcional composta por grafo do domínio, regras BTTA, modelo do estudante, motor de alinhamento, proveniência e auditoria.
+- Especificação inicial do **MAPES Core** como camada tecnológica composta por grafo do domínio, regras BTTA, modelo do estudante, motor de alinhamento, proveniência e auditoria.
 - Distinção entre individualização, personalização e adaptação.
 - Princípio de supervisão: “A IA estrutura, compara e propõe; o professor define, valida, interpreta, decide e responde pelas consequências.”
 - Ciclo MAPES completo, instrumentos, matrizes, rubricas, checklists, templates, critérios de fidelidade e exemplos de aplicação.
@@ -49,7 +93,7 @@ Todas as alterações relevantes ao MAPES devem ser registradas neste arquivo. O
 
 ### Alterado
 
-- MAPES passou a ser descrito como **framework pedagógico e teoria em elaboração**, preservando “Método” no nome oficial sem reduzi-lo a uma técnica isolada.
+- A versão 0.9.0 acrescentou à descrição de framework um estatuto teórico provisório, posteriormente removido na v0.10.0.
 - A retórica do manifesto legado foi calibrada para distinguir metáfora, definição, hipótese, norma de projeto e afirmação empírica.
 - Alegações sobre atenção, ansiedade, carga cognitiva, retenção e evasão foram reformuladas como problemas de pesquisa ou afirmações condicionais, conforme a evidência disponível.
 - A Taxonomia Acelerada deixou de incluir classificação de importância; a relevância passou a constituir dimensão independente.
@@ -69,7 +113,6 @@ Todas as alterações relevantes ao MAPES devem ser registradas neste arquivo. O
 
 ### Limitações conhecidas
 
-- O documento VELCRO não estava disponível e não foi reconstruído por inferência.
 - A revisão é sistematizada e ampla, mas ainda não satisfaz todos os requisitos de uma revisão sistemática registrada e reproduzível.
 - O MAPES não foi validado empiricamente como sistema integrado.
 - Instrumentos e índices propostos ainda requerem estudos de validade e confiabilidade.
