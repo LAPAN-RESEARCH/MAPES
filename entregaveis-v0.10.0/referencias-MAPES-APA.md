@@ -1,7 +1,8 @@
 # Referências MAPES — base mestra em APA 7
 
-**Versão:** 0.9.0  
-**Data:** 24 de julho de 2026  
+**Versão:** 0.10.0  
+**Data de validação bibliográfica:** 24 de julho de 2026  
+**Data de alinhamento documental:** 29 de julho de 2026  
 **Total:** 192 registros únicos; 132 citados nos entregáveis; 60 leituras adicionais.
 
 ## Referências citadas nos entregáveis

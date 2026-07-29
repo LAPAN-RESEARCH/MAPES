@@ -1,16 +1,16 @@
-# Revisão sistematizada da literatura para o desenvolvimento teórico do MAPES
+# Revisão sistematizada da literatura para fundamentação e validação do MAPES
 
 **Projeto:** MAPES — Método de Aprendizagem por Estruturação Sistêmica  
-**Versão:** 0.9.0  
-**Data da busca e consolidação:** 24 de julho de 2026  
-**Natureza do produto:** revisão sistematizada de escopo e síntese crítica preparatória para formalização teórica  
+**Versão:** 0.10.0  
+**Data da busca e consolidação:** 24 de julho de 2026; alinhamento normativo em 29 de julho de 2026  
+**Natureza do produto:** revisão sistematizada de escopo e síntese crítica para investigação, validação e aperfeiçoamento do framework  
 **Status epistemológico:** documento de fundamentação; não constitui validação empírica do MAPES
 
 ---
 
 ## Resumo executivo
 
-Esta revisão examina a literatura necessária para situar e formalizar o MAPES como framework pedagógico em elaboração. O ponto de partida do MAPES é um problema educacional composto: o estudante contemporâneo precisa aprender em um ambiente de abundância informacional, fragmentação curricular, múltiplas demandas atencionais, heterogeneidade de repertórios, crescente mediação algorítmica e facilidade de obtenção de respostas sem garantia de compreensão. A literatura não autoriza diagnosticar uma “geração sem atenção” nem atribuir causalmente esses problemas a uma tecnologia isolada. Ela sustenta, porém, uma formulação mais precisa: a ecologia atual de aprendizagem aumenta as oportunidades de interrupção, alternância de tarefas, terceirização cognitiva, consumo fragmentado e exposição a informações de qualidade desigual, ao mesmo tempo que exige maior autorregulação, avaliação de fontes, organização conceitual e transferência. Os efeitos dependem do padrão de uso, do desenho pedagógico, do conhecimento prévio, das condições sociais e da mediação docente (Dontre, 2021; Firth et al., 2019, 2024; Global Education Monitoring Report Team, 2023; OECD, 2023).
+Esta revisão examina a literatura necessária para fundamentar o programa de investigação, validação e aperfeiçoamento do MAPES como framework pedagógico, metodológico e institucional. O ponto de partida do MAPES é um problema educacional composto: o estudante contemporâneo precisa aprender em um ambiente de abundância informacional, fragmentação curricular, múltiplas demandas atencionais, heterogeneidade de repertórios, crescente mediação algorítmica e facilidade de obtenção de respostas sem garantia de compreensão. A literatura não autoriza diagnosticar uma “geração sem atenção” nem atribuir causalmente esses problemas a uma tecnologia isolada. Ela sustenta, porém, uma formulação mais precisa: a ecologia atual de aprendizagem aumenta as oportunidades de interrupção, alternância de tarefas, terceirização cognitiva, consumo fragmentado e exposição a informações de qualidade desigual, ao mesmo tempo que exige maior autorregulação, avaliação de fontes, organização conceitual e transferência. Os efeitos dependem do padrão de uso, do desenho pedagógico, do conhecimento prévio, das condições sociais e da mediação docente (Dontre, 2021; Firth et al., 2019, 2024; Global Education Monitoring Report Team, 2023; OECD, 2023).
 
 A revisão converge em cinco conclusões centrais. Primeiro, aprendizagem ativa tende a superar exposição exclusivamente passiva em múltiplos contextos, mas “atividade” não é um tratamento homogêneo: seus efeitos dependem da qualidade da tarefa, do alinhamento, do feedback, do suporte e da fidelidade de implementação (Deslauriers et al., 2019; Freeman et al., 2014; Hmelo-Silver et al., 2007; Lombardi et al., 2021; Theobald et al., 2020). Segundo, formação por competências torna expectativas e evidências mais explícitas, mas pode converter-se em burocracia de matrizes se a documentação não for proporcional ao risco e ao uso. Terceiro, taxonomias cognitivas são úteis quando descrevem operações efetivamente requeridas por tarefas e avaliações; tornam-se superficiais quando reduzidas a listas de verbos. Quarto, mapas conceituais, modelos de sistemas e grafos de conhecimento podem apoiar organização e navegação, mas sua eficácia depende de uso cognitivo ativo e de representações adequadas ao nível do estudante. Quinto, inteligência artificial pode reduzir trabalho mecânico, apoiar diferenciação e gerar artefatos, mas não deve assumir autoridade epistemológica ou pedagógica; o modelo mais defensável é híbrido, no qual a tecnologia amplia a capacidade do professor e mantém rastreabilidade, supervisão e responsabilidade humanas (Celik et al., 2022; Miao & Holmes, 2023; Molenaar, 2022; Zawacki-Richter et al., 2019).
 
@@ -150,16 +150,9 @@ A síntese foi organizada por constructos e problemas de desenho. Para cada eixo
 
 ---
 
-## 3. Base documental interna e limite relativo ao VELCRO
+## 3. Base documental interna e delimitação
 
 O documento legado do MAPES formula o problema original em torno da passagem de uma era de escassez informacional para uma ecologia de abundância, na qual estudantes recebem conteúdos fragmentados, precisam reconstruir sozinhos a arquitetura do domínio e podem permanecer presos a memorização de rótulos. O documento consolidado transformou essa narrativa em quatro dificuldades analíticas: fragmentação, opacidade funcional, progressão cognitiva implícita e distância contextual. Ele também impôs uma regra de rigor: crises de atenção, ansiedade, retenção ou evasão não devem ser atribuídas causalmente ao MAPES ou à tecnologia sem evidência correspondente.
-
-O documento denominado **VELCRO**, mencionado como fonte original para a crise de atenção, não estava disponível entre os anexos nem foi localizado na biblioteca de arquivos acessível durante esta elaboração. Consequentemente:
-
-- nenhuma formulação específica é atribuída ao VELCRO;
-- o diagnóstico foi reconstruído a partir do documento legado e de literatura publicada;
-- eventuais conceitos próprios do VELCRO deverão ser auditados e integrados em versão posterior, com registro no `CHANGELOG.md`;
-- a ausência do VELCRO constitui limitação documental, não autorização para preencher seu conteúdo por inferência.
 
 ---
 
@@ -357,6 +350,8 @@ Evidências de prática de recuperação mostram que conhecimento factual recupe
 
 “Acelerada” significa antecipação planejada das operações, não promessa de menor duração total. O constructo deve ser representado como ciclo:
 
+**problema autêntico → análise → lacunas → fundamentos → aplicação → avaliação/criação → feedback → transferência**
+
 ```mermaid
 flowchart LR
     P[Problema autêntico] --> A[Análise inicial]
@@ -426,6 +421,8 @@ G_t = \langle V_t,E_t,\tau_V,\tau_E,w_t,s_t\rangle,
 em que \(V_t\) são entidades, \(E_t\) relações, \(\tau_V\) e \(\tau_E\) tipos, \(w_t\) pesos ou graus de confiança e \(s_t\) estados. O índice \(t\) permite representar variação.
 
 A topologia pertence ao Blueprint; a semântica de contribuição funcional é informada pela Teleonomia; a dinâmica emerge de estados e regras de transição. Essa separação impede que “grafo funcional” dissolva os constructos.
+
+Na arquitetura integrada, o Blueprint define topologia; a Teleonomia adiciona semântica funcional; a Taxonomia Acelerada associa operações e tarefas; a Ancoragem Contextual associa portas de entrada, abstração e transferência; e a Estratificação de Relevância Sistêmica adiciona prioridade. O grafo pode registrar essas camadas, mas não equivale ao BTTA nem ao framework.
 
 ### 8.4 Grafos de conhecimento em educação
 
@@ -535,6 +532,8 @@ A meta-avaliação examina se o próprio desenho MAPES é coerente, viável, equ
 
 Satisfação não substitui aprendizagem; aprendizagem imediata não substitui retenção e transferência.
 
+A qualidade do MAPES deve permanecer multidimensional, sem escore agregado antes de validação: fidelidade estrutural, qualidade pedagógica, aprendizagem, qualidade operacional, valor institucional e qualidade das inferências. A meta-avaliação distingue estudante, aula/unidade, implementação tecnológica e proposições do MAPES.
+
 ---
 
 ## 13. Inteligência artificial, aprendizagem adaptativa e MAPES Core
@@ -548,6 +547,8 @@ Revisões de IA na educação mostram crescimento rápido, mas também concentra
 A formulação adotada é:
 
 > **A IA estrutura e propõe; o professor exerce autoridade epistemológica e pedagógica.**
+
+Na autoria assistida, a instituição estabelece políticas e governança. Software e IA são recursos de implementação e não integram a ontologia principal do MAPES.
 
 O professor:
 
@@ -564,7 +565,7 @@ O modelo híbrido humano–IA é mais defensável do que automação plena, porq
 
 ### 13.3 Arquitetura do MAPES Core
 
-O MAPES pode constituir o núcleo pedagógico e semântico de uma EdTech:
+O MAPES Core é a arquitetura operacional normativa do framework. Suas funções podem ser realizadas manualmente, digitalmente ou por combinação entre trabalho humano e automação. Um produto EdTech constitui uma implementação dessas funções:
 
 \[
 \text{MAPES Core} = G_D + BTTA + M_E + A_L + P_R + H,
@@ -578,6 +579,8 @@ em que:
 - \(A_L\): motor de alinhamento;
 - \(P_R\): proveniência e rastreabilidade;
 - \(H\): supervisão e decisão humanas.
+
+O Core deve incorporar fontes autorizadas, proveniência, rastreabilidade, conflitos, lacunas, gate de aprovação docente e versionamento. Inferências sobre lacunas do estudante permanecem provisórias, com evidência, confiança, alternativas, confirmação e revisão.
 
 ### 13.4 Entradas e saídas
 
@@ -606,6 +609,8 @@ O conteúdo validado e os critérios finais não devem ser reduzidos com base em
 | dependência | tarefas que exigem produção e verificação do estudante |
 | vigilância | evitar inferências afetivas ou diagnósticas não validadas |
 | deskilling docente | formação e manutenção de autoria no design |
+
+Intervenções devem usar três níveis de risco: baixo, com automação registrada e reversível; intermediário, com recomendação e revisão; e alto, com revisão humana prévia. O estudante deve poder solicitar ajuda, contestar inferências e pedir revisão humana.
 
 ---
 
@@ -674,7 +679,7 @@ A originalidade do MAPES precisa ser demonstrada empiricamente e conceitualmente
 
 ## 17. Decisões de projeto derivadas da revisão
 
-1. MAPES é um framework pedagógico em formalização, não uma teoria validada.
+1. MAPES é um framework pedagógico, metodológico e institucional cuja eficácia integrada permanece em validação.
 2. O problema do estudante será descrito como ecologia de abundância, competição atencional, fragmentação e exigência de autorregulação, sem patologia geracional.
 3. O professor é componente constitutivo do framework.
 4. Blueprint é o constructo; grafo sistêmico funcional é representação formal; mapa é vista pedagógica.
@@ -684,10 +689,11 @@ A originalidade do MAPES precisa ser demonstrada empiricamente e conceitualmente
 8. Tarefas de níveis básicos permanecem permitidas como suporte funcional.
 9. Metodologias ativas são incorporadas conforme objetivos e condições, sem alegação de superioridade universal.
 10. Serão adotados três níveis de implementação para evitar burocratização.
-11. IA será usada para estruturar, propor e adaptar sob validação docente.
-12. Avaliação incluirá aprendizagem, transferência, fidelidade, equidade, carga docente e efeitos adversos.
-13. Governança será enxuta na fase piloto.
-14. Proposições serão formuladas com condições de contorno e critérios de revisão.
+11. MAPES, BTTA e MAPES Core permanecerão distintos; software e IA serão recursos de implementação do Core.
+12. IA será usada para estruturar e propor sob validação docente e governança institucional.
+13. Avaliação incluirá os seis domínios de qualidade, sem escore agregado antes de validação.
+14. Governança do framework, do produto/Core digital e da instituição será separada.
+15. Proposições serão formuladas com condições de contorno e critérios de revisão.
 
 ---
 
@@ -710,7 +716,6 @@ A originalidade do MAPES precisa ser demonstrada empiricamente e conceitualmente
 
 ## 19. Limitações desta revisão
 
-- O VELCRO não estava disponível.
 - Não houve registro prospectivo do protocolo.
 - Não foi realizada dupla triagem independente.
 - Não há diagrama quantitativo PRISMA de todos os registros recuperados.

@@ -1,37 +1,29 @@
-# Plano de pesquisa para desenvolvimento, implementação e validação do MAPES
+# Plano de pesquisa para investigação, validação e aperfeiçoamento do MAPES
 
 **Nome do projeto:** MAPES — Método de Aprendizagem por Estruturação Sistêmica  
-**Versão do plano:** 0.9.0  
-**Data:** 24 de julho de 2026  
+**Versão do plano:** 0.10.0  
+**Data:** 29 de julho de 2026  
 **Autores-fundadores:** Hugo de Paula, Ricardo Guimarães e Cláudio de Moura Castro  
-**Estatuto:** plano programático para uma teoria pedagógica em elaboração; não constitui registro de eficácia
+**Estatuto:** programa de investigação, validação e aperfeiçoamento do framework; não constitui registro de eficácia
 
 ## Resumo
 
-Este plano define o programa de pesquisa necessário para transformar o MAPES de um framework pedagógico autoral conceitualmente consolidado em uma teoria educacional formalizada, operacionalizável, testável e revisável. O MAPES organiza conhecimentos complexos como sistemas e articula quatro pilares: Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual. As decisões mais recentes incorporam um grafo sistêmico funcional como representação formal possível do Blueprint; separam progressão cognitiva de Estratificação de Relevância Sistêmica; estabelecem três níveis de implementação para evitar burocratização; definem a inteligência artificial como apoio à agência docente; e adotam governança enxuta para a fase piloto.
+Este plano define o programa de investigação, validação e aperfeiçoamento do MAPES. O MAPES é um framework pedagógico, metodológico e institucional de aplicação transversal que organiza conhecimentos complexos como sistemas e orienta seu planejamento, apresentação, avaliação, adaptação e melhoria contínua. Seu núcleo conceitual articula Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual, complementados pela Estratificação de Relevância Sistêmica. O programa mantém proposições testáveis, mecanismos, condições de contorno, critérios de fidelidade, instrumentos, critérios de revisão e agenda empírica.
 
 O programa está organizado em seis fases: saneamento conceitual; revisão sistemática formal; desenvolvimento de instrumentos; pesquisa baseada em design e viabilidade; estudos comparativos de componentes e integração; e validação multicêntrica, tecnológica e longitudinal. Os desfechos prioritários são compreensão relacional, explicação funcional, aplicação, retenção e transferência. Desfechos secundários incluem calibração metacognitiva, engajamento cognitivo, desorientação, carga percebida, equidade, fidelidade, carga de trabalho docente e custo de implementação.
 
 A pesquisa adota métodos mistos e uma teoria de mudança explícita. O MAPES não é apresentado como tratamento para transtornos de atenção nem como substituto do professor. O problema contemporâneo é formulado como ecologia atencional de alta concorrência, combinada a fragmentação curricular, abundância de informações, incerteza epistemológica e heterogeneidade de repertórios. O professor permanece responsável por finalidades, validação do domínio, mediação, interpretação da turma, avaliação e decisões éticas. Sistemas de inteligência artificial podem extrair estruturas, gerar propostas e reduzir trabalho documental, mas devem manter proveniência, explicabilidade, supervisão e contestabilidade.
 
-## 1. Base documental, decisões consolidadas e lacuna VELCRO
+## 1. Base documental e decisões consolidadas
 
 ### 1.1 Corpus de origem
 
 O plano se apoia no manifesto legado do MAPES e no documento de consolidação teórica (de Moura Castro & Guimarães, n.d.; Projeto MAPES, 2026). O primeiro formula o problema em termos de abundância de peças e escassez de arquitetura; o segundo define o MAPES como framework pedagógico em formalização, distingue definição de hipótese, delimita invariantes e reconhece a necessidade de proposições, instrumentos, fidelidade e validação.
 
-O usuário informou que o documento VELCRO contém a formulação original sobre crises modernas de atenção. Esse arquivo não esteve disponível no corpus acessível durante a elaboração. Consequentemente, este plano não atribui ao VELCRO enunciados que não puderam ser verificados. A revisão sistematizada reconstruiu o problema com literatura sobre distração digital, multitarefa, divagação mental, carga cognitiva, falsa fluência e fragmentação. A incorporação futura do VELCRO deverá seguir procedimento de reconciliação documental:
-
-1. identificar conceitos e alegações exclusivos do VELCRO;
-2. classificar cada alegação como definição, hipótese, interpretação ou afirmação empírica;
-3. verificar convergência com a literatura;
-4. preservar formulações autorais quando compatíveis;
-5. registrar alterações no CHANGELOG e no log de decisões.
-
 ### 1.2 Decisões conceituais vigentes
 
 1. MAPES significa **Método de Aprendizagem por Estruturação Sistêmica**.
-2. Sua natureza atual é **framework pedagógico e teoria em elaboração**.
+2. Sua natureza é **framework pedagógico, metodológico e institucional de aplicação transversal**.
 3. Os pilares são Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual.
 4. O Blueprint pode ser representado formalmente por grafo sistêmico funcional; mapas são vistas pedagógicas.
 5. Teleonomia descreve contribuição funcional sem intenção ou finalismo.
@@ -39,9 +31,11 @@ O usuário informou que o documento VELCRO contém a formulação original sobre
 7. Relevância é dimensão separada, denominada Estratificação de Relevância Sistêmica.
 8. MAPES pode incorporar PBL, projetos, casos, investigação, simulação, sala invertida e exposição guiada; não é sinônimo de nenhuma delas.
 9. Há três níveis de implementação: Essencial, Padrão e Pesquisa.
-10. Um MAPES Core tecnológico é opcional; a aplicação não depende de plataforma.
-11. A IA propõe e organiza; o professor define, valida, interpreta e decide.
-12. A governança piloto é enxuta e liderada pelo Núcleo Fundador.
+10. **MAPES ≠ BTTA ≠ MAPES Core**: o Core é a arquitetura operacional normativa do framework.
+11. As funções do Core podem ser realizadas manualmente, digitalmente ou por combinação entre trabalho humano e automação.
+12. Software e IA são recursos de implementação do Core, não parte da ontologia principal.
+13. A IA estrutura e propõe; o professor define, valida, interpreta e decide; a instituição estabelece políticas e governança.
+14. A governança do framework, do produto/Core digital e da instituição é separada.
 
 ## 2. Problema de pesquisa
 
@@ -84,7 +78,7 @@ Os mecanismos do MAPES possuem pontos de contato com teorias existentes, mas sua
 
 ### 3.1 Objetivo geral
 
-Desenvolver, formalizar e testar o MAPES como teoria pedagógica em elaboração e framework de desenho, estabelecendo definições, mecanismos, condições de contorno, instrumentos, critérios de fidelidade e evidências sobre aprendizagem, implementação, equidade e custo.
+Investigar, validar e aperfeiçoar o MAPES, estabelecendo evidências sobre seus constructos, mecanismos, condições de contorno, fidelidade, aprendizagem, qualidade pedagógica, operação, valor institucional, equidade, custo e qualidade das inferências.
 
 ### 3.2 Objetivos específicos
 
@@ -97,7 +91,7 @@ Desenvolver, formalizar e testar o MAPES como teoria pedagógica em elaboração
 7. Estimar efeitos de componentes isolados e integração.
 8. Examinar moderadores: conhecimento prévio, complexidade, modalidade e suporte.
 9. Avaliar carga de trabalho e risco de overdesign.
-10. Projetar e testar o MAPES Core opcional, com agência docente.
+10. Projetar e testar implementações do MAPES Core, com autoria assistida e autoridade docente.
 11. Monitorar equidade, acessibilidade, privacidade e efeitos adversos.
 12. Definir critérios para revisão, refutação e estabilização da versão 1.0.
 
@@ -127,7 +121,7 @@ Desenvolver, formalizar e testar o MAPES como teoria pedagógica em elaboração
 **QI2.** Qual formação é necessária?  
 **QI3.** Quais componentes sofrem maior desvio?  
 **QI4.** Qual fidelidade mínima está associada a resultados?  
-**QI5.** O framework é viável fora da Neurovisão?
+**QI5.** O framework é viável em domínios, instituições e públicos contrastantes?
 
 ### 4.4 Questões de tecnologia e agência
 
@@ -168,7 +162,7 @@ Amez e Baert (2020), Bjerre-Nielsen et al. (2020), Parry e le Roux (2021), Small
 
 Abu-Salih e Alotaibi (2024), Qu et al. (2024), Ifenthaler e Yau (2020), Celik et al. (2022), Khosravi et al. (2022), Choi et al. (2024) e Miao e Holmes (2023) fundamentam potencial e riscos. Explicabilidade, proveniência e agência docente são requisitos, não funcionalidades opcionais.
 
-### 5.8 Desenvolvimento e avaliação de teoria educacional
+### 5.8 Desenvolvimento e avaliação de frameworks educacionais
 
 McKenney e Reeves (2019, 2021) apoiam pesquisa baseada em design. Carroll et al. (2007) orientam fidelidade. Messick (1995), Kane (2013) e Cook e Hatala (2016) orientam validade. Stufflebeam (2011) sustenta meta-avaliação.
 
@@ -290,9 +284,9 @@ Será avaliada por:
 
 ### 7.4 Estratificação de Relevância
 
-Cada nó ou relação poderá ser classificado como nuclear, habilitador, contextual ou extensão. Serão testadas confiabilidade entre avaliadores e utilidade para reduzir escopo.
+Cada nó ou relação poderá ser classificado como Nuclear, Habilitadora, Contextual ou Extensão. A justificativa considerará centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro. Serão testadas confiabilidade entre avaliadores e utilidade para reduzir escopo, sem fundir relevância com operação cognitiva.
 
-## 8. Sumário analítico do documento teórico final
+## 8. Sumário analítico do documento fundador
 
 1. **Introdução:** ecologia contemporânea de aprendizagem, fragmentação, abundância e centralidade docente.
 2. **Fundamentação:** teorias e evidências; convergências e tensões.
@@ -311,11 +305,11 @@ Cada nó ou relação poderá ser classificado como nuclear, habilitador, contex
 
 ### Fase 0 — saneamento conceitual e revisão formal
 
-**Objetivos:** concluir glossário, incorporar VELCRO, registrar protocolo de revisão e mapear sobreposição teórica.
+**Objetivos:** concluir glossário, registrar protocolo de revisão e mapear sobreposição teórica.
 
 **Métodos:** análise documental, revisão sistemática/escopo, workshops estruturados do Núcleo, pareceres ad hoc.
 
-**Produtos:** versão 0.9.x, glossário, matriz de alegações, revisão PRISMA, mapa de constructos.
+**Produtos:** revisões compatíveis da versão 0.10.x, glossário, matriz de alegações, revisão PRISMA e mapa de constructos.
 
 **Critérios de passagem:** ausência de definições circulares; distinção Taxonomia/Relevância; acordo do Núcleo; parecer externo.
 
@@ -327,11 +321,11 @@ Cada nó ou relação poderá ser classificado como nuclear, habilitador, contex
 
 **Questões:** os itens representam os constructos? Os termos são interpretados como pretendido? Os pilares se confundem?
 
-**Produtos:** rubricas preliminares, manual de codificação, revisão 0.10.0.
+**Produtos:** rubricas preliminares, manual de codificação e revisão compatível subsequente.
 
 ### Fase 2 — pesquisa baseada em design
 
-**Contextos:** Neurovisão e pelo menos dois domínios contrastantes, como Direito e Engenharia/Ciências.
+**Contextos:** pelo menos três domínios contrastantes, como Saúde, Direito e Engenharia/Ciências, sem atribuir estatuto privilegiado a um caso.
 
 **Ciclos:** análise, desenho, implementação, avaliação, redesenho.
 
@@ -537,6 +531,8 @@ Nenhum campo será exigido se não tiver função pedagógica, científica, éti
 
 ### 14.1 Arquitetura
 
+O MAPES Core é a arquitetura operacional normativa do framework. Suas funções podem ser realizadas manualmente, digitalmente ou por combinação entre trabalho humano e automação; software e IA são recursos de implementação. O programa tecnológico investiga produtos digitais sem confundi-los com o framework.
+
 ```mermaid
 flowchart TB
     U[Universidade: currículo, políticas e padrões] --> K[MAPES Core]
@@ -551,6 +547,8 @@ flowchart TB
     P -->|aprova, corrige ou rejeita| K
 ```
 
+O Core deverá incorporar fontes autorizadas, proveniência, rastreabilidade, conflitos, lacunas, gate de aprovação docente e versionamento. A matriz normativa ligará objetivo, nó principal, nós relacionados, relação, função, operação cognitiva, relevância, tarefa, evidência, feedback, fonte e confiança.
+
 ### 14.2 Funções automatizáveis
 
 - extração de conceitos e relações;
@@ -563,6 +561,8 @@ flowchart TB
 - sumarização de evidências;
 - alertas ao professor.
 
+Toda saída automatizada deverá declarar fonte, confiança, versão e possibilidade de reversão.
+
 ### 14.3 Funções não delegáveis integralmente
 
 - definição de finalidades;
@@ -573,6 +573,8 @@ flowchart TB
 - intervenção relacional;
 - juízo ético e contextual;
 - responsabilidade institucional.
+
+Na autoria assistida, a IA estrutura e propõe; o professor define, valida, interpreta e decide; a instituição estabelece políticas e governança.
 
 ### 14.4 Métricas do produto
 
@@ -588,6 +590,18 @@ flowchart TB
 - incidentes de privacidade;
 - dependência do fornecedor.
 
+### 14.5 Inferências, relatórios e níveis de risco
+
+Inferências sobre lacunas do estudante serão provisórias e registrarão evidência, confiança, alternativas explicativas, confirmação e revisão. Relatórios ao professor incluirão evidência, confiança, alternativas, intervenções, evolução, recomendação não vinculante e decisão docente.
+
+Os controles serão proporcionais ao risco:
+
+- **baixo:** automação registrada e reversível;
+- **intermediário:** recomendação com revisão;
+- **alto:** revisão humana prévia.
+
+O estudante poderá solicitar ajuda, contestar inferências e pedir revisão humana. Pedidos explícitos de ajuda constituem gatilho prioritário.
+
 ## 15. Ética, equidade, dados e integridade
 
 ### 15.1 Estudantes
@@ -598,6 +612,9 @@ flowchart TB
 - monitoramento de efeitos adversos;
 - separação entre apoio educacional e diagnóstico clínico;
 - comunicação de incerteza.
+- direito de solicitar ajuda;
+- direito de contestar inferências;
+- direito de pedir revisão humana.
 
 ### 15.2 Dados
 
@@ -612,7 +629,7 @@ flowchart TB
 
 ### 15.3 Equidade
 
-Resultados serão estratificados quando ética e estatisticamente adequados. Personalização não poderá reduzir objetivos nucleares com base em previsões opacas. Estudantes terão meios de contestar e corrigir o modelo.
+Resultados serão estratificados quando ética e estatisticamente adequados. Individualização, personalização e adaptação serão tratadas como conceitos distintos. Nenhuma poderá reduzir objetivos nucleares com base em previsões opacas. Estudantes terão meios de contestar e corrigir o modelo.
 
 ### 15.4 Integridade científica
 
@@ -624,35 +641,35 @@ Resultados serão estratificados quando ética e estatisticamente adequados. Per
 - transparência de contribuições CRediT;
 - separação entre métricas comerciais e evidência científica.
 
-## 16. Critérios de qualidade do documento e do programa
+## 16. Mensuração multidimensional da qualidade do MAPES
 
-| Critério | Pergunta operacional | Evidência |
+A mensuração será explicitamente multidimensional. Não será criado escore agregado antes da validação dos instrumentos, das relações entre domínios e dos usos pretendidos.
+
+| Domínio | Pergunta operacional | Evidência indicativa |
 |---|---|---|
-| Fundamentação | Cada mecanismo é conectado à literatura? | matriz alegação–fonte |
-| Originalidade | A integração acrescenta algo distinguível? | comparação conceitual e empírica |
-| Consistência | Constructos não se sobrepõem indevidamente? | validade discriminante e casos-limite |
-| Clareza | Docentes de diferentes áreas interpretam os termos de modo convergente? | entrevistas cognitivas |
-| Operacionalidade | É possível desenhar e reconhecer uma aplicação? | templates e fidelidade |
-| Rigor epistemológico | Hipóteses, limites e refutação são explícitos? | proposições e critérios de revisão |
-| Proporcionalidade | A documentação produz valor superior ao custo? | tempo e carga docente |
-| Agência docente | O professor controla decisões de alto impacto? | auditoria de fluxo |
-| Equidade | Padrões permanecem e disparidades são monitoradas? | análises e salvaguardas |
-| Reprodutibilidade | Outras equipes conseguem aplicar e estudar? | manual, materiais e dados permitidos |
+| Fidelidade estrutural | A implementação preserva invariantes, relações e ciclo? | rubrica de fidelidade, rastreabilidade e desvios |
+| Qualidade pedagógica | O desenho, a mediação, o apoio e o feedback são adequados? | revisão de tarefas, observação, acessibilidade e carga |
+| Aprendizagem | O estudante demonstra compreensão, aplicação, retenção e transferência? | tarefas, rubricas, medidas tardias e calibração |
+| Qualidade operacional | O processo é confiável, viável, seguro e reversível? | tempo líquido, erros, disponibilidade, custo e incidentes |
+| Valor institucional | A implementação produz informação útil e sustentável para melhoria? | adoção, equidade, portabilidade e uso decisório agregado |
+| Qualidade das inferências | As conclusões são válidas, incertas quando necessário e contestáveis? | evidência, confiança, alternativas, confirmação, revisão e disparidades |
+
+Cada domínio deverá ter indicadores, fontes, periodicidade, responsáveis, limitações e critérios de revisão próprios. A meta-avaliação manterá quatro níveis: estudante; aula/unidade; implementação tecnológica; proposições do MAPES.
 
 ## 17. Cronograma indicativo de 36 meses
 
 | Período | Atividade | Produto principal |
 |---|---|---|
-| Meses 1–3 | Incorporar VELCRO, protocolo e saneamento | v0.9.x e protocolo registrado |
+| Meses 1–3 | Atualizar protocolo, glossário e saneamento | v0.10.x e protocolo registrado |
 | Meses 3–7 | Revisão sistemática e comparação de frameworks | artigo de revisão |
 | Meses 5–9 | Validade de conteúdo e entrevistas | instrumentos v1 |
-| Meses 8–15 | Ciclos DBR em Neurovisão e dois domínios | manual v0.10 e casos |
+| Meses 8–15 | Ciclos DBR em três domínios contrastantes | manual revisado e casos |
 | Meses 12–18 | Estudos de viabilidade e carga docente | relatório de implementação |
 | Meses 16–24 | Estudos de componentes | artigos experimentais/quase experimentais |
 | Meses 20–28 | Estudo integrado e retenção | estimativa de efeito incremental |
 | Meses 18–30 | Protótipo MAPES Core e auditoria | versão alfa/beta validada |
 | Meses 27–34 | Replicação multicêntrica | evidência externa |
-| Meses 32–36 | Síntese, meta-avaliação e decisão v1.0 | teoria/manual v1.0 ou revisão estrutural |
+| Meses 32–36 | Síntese, meta-avaliação e decisão v1.0 | framework/manual v1.0 ou revisão estrutural |
 
 O cronograma é adaptável a financiamento, calendário acadêmico e aprovação ética. A versão 1.0 não depende apenas do decurso do tempo; depende de critérios de maturidade.
 
@@ -669,7 +686,7 @@ O cronograma é adaptável a financiamento, calendário acadêmico e aprovação
 9. governança, licença e citação estáveis;
 10. revisão externa independente.
 
-A versão 1.0 não significará “teoria comprovada”, mas especificação estável sustentada por um programa inicial de evidências.
+A versão 1.0 significará uma especificação estável sustentada por um programa inicial de evidências, não eficácia universal comprovada.
 
 ## 19. Riscos e mitigação
 
@@ -683,13 +700,13 @@ A versão 1.0 não significará “teoria comprovada”, mas especificação est
 | Efeito do professor confundido | atribuição indevida | múltiplos docentes e modelos multinível |
 | IA incorreta ou opaca | dano epistemológico | proveniência, revisão e explicabilidade |
 | Personalização que baixa padrões | inequidade | invariantes curriculares e auditoria |
-| Uso comercial precoce | alegações exageradas | separação governança científica/produto |
+| Uso comercial precoce | alegações exageradas | separação entre governança do framework, do produto e institucional |
 | Viés de publicação | teoria artificialmente positiva | registro e resultados nulos |
 
 ## 20. Produtos previstos
 
 1. revisão sistemática registrada;
-2. documento teórico MAPES;
+2. documento fundador MAPES;
 3. manual de implementação;
 4. Canvas Essencial;
 5. rubricas e instrumentos;
@@ -700,8 +717,15 @@ A versão 1.0 não significará “teoria comprovada”, mas especificação est
 10. artigos de validade, DBR, componentes e integração;
 11. repositório com DOI, CHANGELOG e versões;
 12. biblioteca Zotero/RDF atualizada.
+13. backlog separado para futuro protocolo de piloto específico.
 
 ## 21. Governança do programa
+
+O programa distingue:
+
+- **governança do framework:** constructos, terminologia, evidências, fidelidade e alegações científicas;
+- **governança do produto/Core digital:** código, interfaces, segurança, suporte, versões e operação;
+- **governança institucional:** dados, usuários, políticas, currículo, Perfil Institucional e uso local.
 
 ### Núcleo Fundador
 
