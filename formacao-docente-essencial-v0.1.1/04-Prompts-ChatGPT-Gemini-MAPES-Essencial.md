@@ -65,7 +65,7 @@ Produza somente:
 4. lacunas e perguntas ao professor;
 5. proposta preliminar de sistema, fronteira, 5–9 elementos e relações tipadas;
 6. funções, dependências e falhas sustentadas;
-7. proposta provisória de relevância: nuclear, habilitadora, contextual ou extensão;
+7. proposta provisória de relevância: Nuclear, Habilitadora, Contextual ou Extensão, justificada por centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro;
 8. três opções de tarefa autêntica em nível de aplicação, análise, avaliação ou criação;
 9. artefatos que podem ser gerados com segurança e artefatos que dependem de fonte adicional.
 

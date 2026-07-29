@@ -51,39 +51,51 @@ IA propõe e organiza.
 
 ---
 
-# Slide 6 — Blueprint funcional
+# Slide 6 — Cinco perguntas do estudante
+
+1. Onde isto se encontra no sistema?
+2. Que contribuição funcional desempenha?
+3. O que preciso fazer com esse conhecimento?
+4. Como se conecta ao meu repertório?
+5. Consigo aplicá-lo em outro contexto?
+
+---
+
+# Slide 7 — Blueprint funcional
 
 **Pergunta:** onde cada elemento está e como se relaciona?  
 **Atividade:** transformar uma lista de tópicos em cinco a nove nós.
 
 ---
 
-# Slide 7 — Mapa e grafo
+# Slide 8 — Mapa e grafo
 
 Mapa: vista pedagógica.  
 Grafo: relações tipadas, direção, estado e feedback quando necessários.
 
 ---
 
-# Slide 8 — Teleonomia
+# Slide 9 — Teleonomia
 
 Função, dependência, variação e falha.  
 Sem finalismo.
 
 ---
 
-# Slide 9 — Relevância sistêmica
+# Slide 10 — Relevância sistêmica
 
 - nuclear;
 - habilitador;
 - contextual;
 - extensão.
 
+**Critérios:** centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro.
+
 **Pergunta:** o que pode ser consultado ou adiado?
 
 ---
 
-# Slide 10 — Taxonomia Acelerada
+# Slide 11 — Taxonomia Acelerada
 
 ```text
 problema → lacuna → fundamento → uso → feedback → transferência
@@ -91,13 +103,13 @@ problema → lacuna → fundamento → uso → feedback → transferência
 
 ---
 
-# Slide 11 — Além dos verbos de Bloom
+# Slide 12 — Além dos verbos de Bloom
 
 Complexidade depende de relações, incerteza, critérios, autonomia e transferência.
 
 ---
 
-# Slide 12 — Tarefa autêntica
+# Slide 13 — Tarefa autêntica
 
 - papel;
 - situação;
@@ -108,14 +120,14 @@ Complexidade depende de relações, incerteza, critérios, autonomia e transfer�
 
 ---
 
-# Slide 13 — Scaffolding
+# Slide 14 — Scaffolding
 
 Orientação não é passividade.  
 Apoio deve ser proporcional e progressivamente reduzido.
 
 ---
 
-# Slide 14 — Ancoragem Contextual
+# Slide 15 — Ancoragem Contextual
 
 ```text
 entrada familiar → abstração → limite → transferência
@@ -123,20 +135,20 @@ entrada familiar → abstração → limite → transferência
 
 ---
 
-# Slide 15 — Fontes autorizadas
+# Slide 16 — Fontes autorizadas
 
 Slides + artigos + contexto transversal.  
 O que não está nas fontes vira lacuna.
 
 ---
 
-# Slide 16 — Fonte de Contexto Transversal
+# Slide 17 — Fonte de Contexto Transversal
 
 Conteúdo-base, relações, vocabulário, critérios e vínculos entre aulas.
 
 ---
 
-# Slide 17 — IA em duas etapas
+# Slide 18 — IA em duas etapas
 
 1. auditoria;
 2. aprovação docente;
@@ -144,48 +156,48 @@ Conteúdo-base, relações, vocabulário, critérios e vínculos entre aulas.
 
 ---
 
-# Slide 18 — O que a IA pode fazer
+# Slide 19 — O que a IA pode fazer
 
 Extrair, relacionar, propor, comparar, gerar rascunhos e verificar alinhamento.
 
 ---
 
-# Slide 19 — O que a IA não decide
+# Slide 20 — O que a IA não decide
 
 Validade, prioridade curricular, nota final, sanção, equidade ou uso em sala.
 
 ---
 
-# Slide 20 — Revisão docente
+# Slide 21 — Revisão docente
 
 Fontes, relações, função, tarefa, gabarito, viés, acessibilidade e versão.
 
 ---
 
-# Slide 21 — Avaliação da aprendizagem
+# Slide 22 — Avaliação da aprendizagem
 
 Diagnóstico, formativa, final e transferência.
 
 ---
 
-# Slide 22 — Experiência não é aprendizagem
+# Slide 23 — Experiência não é aprendizagem
 
 Separe desempenho, experiência, processo e carga docente.
 
 ---
 
-# Slide 23 — Critério contra overdesign
+# Slide 24 — Critério contra overdesign
 
 Remova o que não sustenta decisão, aprendizagem, acessibilidade, rastreabilidade ou melhoria.
 
 ---
 
-# Slide 24 — Atividade final
+# Slide 25 — Atividade final
 
 Redesenhe uma aula, gere um artefato e registre três correções docentes.
 
 ---
 
-# Slide 25 — Fechamento
+# Slide 26 — Fechamento
 
 > Informação se torna conhecimento quando o estudante consegue localizar, relacionar, explicar, usar e revisar.

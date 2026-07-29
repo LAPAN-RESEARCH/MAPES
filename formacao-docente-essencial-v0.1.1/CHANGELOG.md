@@ -2,6 +2,18 @@
 
 Todas as alterações relevantes deste produto devem ser registradas neste arquivo.
 
+## [0.1.1] — 2026-07-29
+
+### Alterado
+
+- base normativa atualizada para MAPES v0.10.0;
+- definição canônica incorporada ao curso;
+- cinco perguntas metacognitivas do estudante incorporadas ao curso, guia e slides;
+- ciclo da Taxonomia Acelerada alinhado à sequência não linear vigente;
+- critérios de relevância ampliados;
+- autoria assistida passou a explicitar responsabilidades de IA, professor e instituição;
+- citação e referências cruzadas atualizadas.
+
 ## [0.1.0] — 2026-07-24
 
 ### Adicionado
@@ -39,4 +51,3 @@ Todas as alterações relevantes deste produto devem ser registradas neste arqui
 - versão piloto sem validação empírica;
 - não inclui procedimentos formais de revisão da literatura;
 - exemplo preenchido é fictício;
-- documento VELCRO não integrou os anexos deste ciclo.

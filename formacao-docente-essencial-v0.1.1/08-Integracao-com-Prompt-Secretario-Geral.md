@@ -4,6 +4,8 @@
 
 O Prompt “Secretário-Geral” foi desenvolvido para coordenar fontes, decisões, notas de aula e artefatos da disciplina de Neurovisão. Este pacote de formação não o substitui. Ele prepara o docente para fornecer entradas mais claras e revisar suas saídas.
 
+Neurovisão é tratada aqui somente como exemplo ilustrativo de uma implementação específica, sem estatuto privilegiado e sem integrar a definição do MAPES.
+
 A adaptação genérica preserva cinco mecanismos:
 
 1. fontes autorizadas;

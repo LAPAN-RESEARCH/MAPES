@@ -1,13 +1,13 @@
 # Formação Docente MAPES Essencial — pacote piloto
 
-**Versão:** 0.1.0  
-**Data:** 24 de julho de 2026  
+**Versão:** 0.1.1  
+**Data de alinhamento:** 29 de julho de 2026  
 **Formato:** oficina autoinstrucional em Markdown  
 **Carga horária recomendada:** 4 a 8 horas  
 **Unidade de aplicação:** uma aula de ensino superior  
 **Público principal:** docentes sem formação prévia em design instrucional, especialmente de disciplinas práticas ou aplicadas  
 **Tecnologias consideradas:** ChatGPT, Gemini, LMS e ferramentas usuais de autoria  
-**Base teórica:** MAPES v0.9.0 — framework pedagógico e teoria em elaboração
+**Base normativa:** MAPES v0.10.0 — framework pedagógico, metodológico e institucional
 
 ## 1. Finalidade
 
@@ -96,8 +96,6 @@ O treinamento não replica o prompt integral. Ele ensina o professor a preparar 
 - Não inclui procedimentos formais de avaliação da qualidade metodológica de artigos.
 - Não pressupõe uma plataforma específica nem descreve interfaces que podem mudar.
 - O exemplo preenchido é fictício e demonstra o processo, não conteúdo disciplinar validado.
-- O documento VELCRO não integrou os anexos deste ciclo; o diagnóstico de atenção segue a formulação do MAPES v0.9.0 e sua bibliografia.
-
 ## 8. Citação da base conceitual
 
-de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.9.0) [Manuscrito teórico-metodológico em preparação]. Projeto MAPES/LAPAN-UFMG.
+de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.

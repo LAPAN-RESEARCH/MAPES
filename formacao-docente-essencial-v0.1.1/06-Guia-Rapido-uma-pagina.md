@@ -27,12 +27,14 @@ Separe:
 - conteúdo nuclear, habilitador, contextual e de extensão;
 - uma pergunta que obrigue o estudante a usar o mapa.
 
+Justifique a relevância por centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro.
+
 ## Acelere a cognição, não o calendário
 
 Apresente cedo um problema de aplicação, análise, avaliação ou criação.
 
 ```text
-Problema → tentativa → lacuna → fundamento → nova aplicação → feedback → transferência
+Problema autêntico → análise → lacunas → fundamentos → aplicação → avaliação/criação → feedback → transferência
 ```
 
 Não pule fundamentos. Forneça-os quando a tarefa tornar sua função clara.
@@ -73,10 +75,18 @@ Gere um artefato por vez e revise:
 - **transferência:** consegue usar o modelo em situação diferente?
 - **meta-avaliação:** o que ajudou, atrapalhou ou aumentou carga sem benefício?
 
+## Faça o estudante se orientar
+
+1. Onde isto se encontra no sistema?
+2. Que contribuição funcional desempenha?
+3. O que preciso fazer com esse conhecimento?
+4. Como se conecta ao meu repertório?
+5. Consigo aplicá-lo em outro contexto?
+
 ## Remova o que não tem função
 
 Um campo, slide, ferramenta ou artefato só permanece se sustentar decisão, aprendizagem, acessibilidade, rastreabilidade ou melhoria.
 
 ## Regra central
 
-> A IA propõe e organiza. O professor seleciona, valida, decide e responde pelo ensino.
+> A IA estrutura e propõe. O professor define, valida, interpreta e decide. A instituição estabelece políticas e governança.

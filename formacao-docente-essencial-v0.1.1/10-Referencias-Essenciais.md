@@ -4,7 +4,7 @@ As referências estão formatadas segundo a APA, 7ª edição. A biblioteca ampl
 
 ## Documento teórico do MAPES
 
-de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.9.0) [Manuscrito teórico-metodológico em preparação]. Projeto MAPES/LAPAN-UFMG.
+de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
 
 ## Aprendizagem, design e avaliação
 

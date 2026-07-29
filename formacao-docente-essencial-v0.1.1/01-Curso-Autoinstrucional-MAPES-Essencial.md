@@ -100,7 +100,7 @@ A aula não é delegada a um modelo de IA. O professor:
 - interpreta evidências de aprendizagem;
 - responde por decisões de alto impacto.
 
-A IA pode acelerar preparação e comparação de alternativas. Não pode determinar, sozinha, o que deve ser ensinado, o que é válido no domínio ou como um estudante deve ser julgado.
+A IA pode acelerar preparação e comparação de alternativas. Não pode determinar, sozinha, o que deve ser ensinado, o que é válido no domínio ou como um estudante deve ser julgado. Na autoria assistida, a IA estrutura e propõe; o professor define, valida, interpreta e decide; a instituição estabelece políticas e governança.
 
 ### Pausa de aplicação
 
@@ -116,7 +116,11 @@ Complete a frase:
 
 ## 1.1 Definição operacional
 
-O MAPES organiza conhecimento complexo como um sistema de componentes, relações, funções, níveis de relevância, operações cognitivas e contextos de aplicação. Na versão Essencial, o professor não precisa preencher uma matriz extensa. Ele responde seis perguntas:
+> **MAPES — Método de Aprendizagem por Estruturação Sistêmica — é um framework pedagógico, metodológico e institucional de aplicação transversal que organiza conhecimentos complexos como sistemas e orienta seu planejamento, apresentação, avaliação, adaptação e melhoria contínua. Seu núcleo conceitual articula Blueprint funcional, Teleonomia, Taxonomia Acelerada e Ancoragem Contextual, complementados pela Estratificação de Relevância Sistêmica.**
+
+O MAPES preserva a autoridade acadêmica do professor e pode ser apoiado por tecnologias digitais e inteligência artificial, sem depender delas para sua definição conceitual.
+
+Na versão Essencial, o professor não precisa preencher uma matriz extensa. Ele responde seis perguntas:
 
 1. **Qual sistema, problema ou decisão organiza a aula?**
 2. **Quais relações e funções são indispensáveis?**
@@ -126,6 +130,14 @@ O MAPES organiza conhecimento complexo como um sistema de componentes, relaçõe
 6. **Como feedback, revisão e transferência ocorrerão?**
 
 Essas perguntas formam o Canvas MAPES Essencial (de Paula et al., 2026).
+
+O estudante usa cinco perguntas metacognitivas:
+
+1. Onde isto se encontra no sistema?
+2. Que contribuição funcional desempenha?
+3. O que preciso fazer com esse conhecimento?
+4. Como se conecta ao meu repertório?
+5. Consigo aplicá-lo em outro contexto?
 
 ## 1.2 Os quatro pilares e uma dimensão transversal
 
@@ -356,7 +368,7 @@ Evite tratar sistemas como agentes conscientes ou inferir mecanismo apenas porqu
 
 ## 3.5 Estratifique a relevância
 
-Marque cada nó como nuclear, habilitador, contextual ou extensão. Depois pergunte:
+Marque cada nó como Nuclear, Habilitadora, Contextual ou Extensão. Justifique pela centralidade, criticidade, precedência, frequência, transferência, complexidade e risco do erro. Depois pergunte:
 
 - Se eu remover este elemento, o estudante ainda consegue executar a tarefa?
 - Este detalhe precisa estar no corpo principal ou pode ser consultado?
@@ -400,10 +412,11 @@ Ciclo recomendado:
 
 ```text
 Problema autêntico
-→ tentativa inicial
+→ análise inicial
 → identificação de lacunas
-→ fundamento just-in-time
-→ nova aplicação
+→ fundamentos necessários
+→ aplicação
+→ avaliação ou criação
 → feedback
 → transferência
 ```
