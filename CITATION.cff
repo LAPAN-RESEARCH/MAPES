@@ -4,12 +4,12 @@ message: If you use this software/repository, please cite it using the metadata 
   this file.
 type: software
 authors:
+- family-names: Guimaães
+  given-names: Ricardo Queiroz
 - family-names: de Paula
   given-names: Hugo
   affiliation: Universidade Federal de Minas Gerais / LAPAN
   website: https://github.com/hugodepaula
-- family-names: Guimarães
-  given-names: Ricardo
 - family-names: de Moura Castro
   given-names: Cláudio
 repository-code: https://github.com/LAPAN-RESEARCH/edu-mapes-framework.git

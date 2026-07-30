@@ -53,7 +53,7 @@ Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagem
 
 Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L. (2018). Translating the ICAP theory of cognitive engagement into practice. *Cognitive Science, 42*(6), 1777–1832. https://doi.org/10.1111/cogs.12626
 
-de Moura Castro, C., & Guimarães, R. (n.d.). *MAPES — Método de Aprendizagem por Estruturação Sistêmica*. Projeto MAPES/LAPAN-UFMG.
+de Moura Castro, C., & Guimaães, R. (n.d.). *MAPES — Método de Aprendizagem por Estruturação Sistêmica*. Projeto MAPES/LAPAN-UFMG.
 
 Deslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. *Proceedings of the National Academy of Sciences, 116*(39), 19251–19257. https://doi.org/10.1073/pnas.1821936116
 

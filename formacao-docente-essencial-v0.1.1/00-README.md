@@ -98,4 +98,4 @@ O treinamento não replica o prompt integral. Ele ensina o professor a preparar 
 - O exemplo preenchido é fictício e demonstra o processo, não conteúdo disciplinar validado.
 ## 8. Citação da base conceitual
 
-de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
+Guimaães, R. Q., de Paula, H., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.

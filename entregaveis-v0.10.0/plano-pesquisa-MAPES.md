@@ -3,7 +3,7 @@
 **Nome do projeto:** MAPES — Método de Aprendizagem por Estruturação Sistêmica  
 **Versão do plano:** 0.10.0  
 **Data:** 29 de julho de 2026  
-**Autores-fundadores:** Hugo de Paula, Ricardo Guimarães e Cláudio de Moura Castro  
+**Autores-fundadores:** Ricardo Queiroz Guimaães, Hugo de Paula e Cláudio de Moura Castro  
 **Estatuto:** programa de investigação, validação e aperfeiçoamento do framework; não constitui registro de eficácia
 
 ## Resumo
@@ -18,7 +18,7 @@ A pesquisa adota métodos mistos e uma teoria de mudança explícita. O MAPES n�
 
 ### 1.1 Corpus de origem
 
-O plano se apoia no manifesto legado do MAPES e no documento de consolidação teórica (de Moura Castro & Guimarães, n.d.; Projeto MAPES, 2026). O primeiro formula o problema em termos de abundância de peças e escassez de arquitetura; o segundo define o MAPES como framework pedagógico em formalização, distingue definição de hipótese, delimita invariantes e reconhece a necessidade de proposições, instrumentos, fidelidade e validação.
+O plano se apoia no manifesto legado do MAPES e no documento de consolidação teórica (de Moura Castro & Guimaães, n.d.; Projeto MAPES, 2026). O primeiro formula o problema em termos de abundância de peças e escassez de arquitetura; o segundo define o MAPES como framework pedagógico em formalização, distingue definição de hipótese, delimita invariantes e reconhece a necessidade de proposições, instrumentos, fidelidade e validação.
 
 ### 1.2 Decisões conceituais vigentes
 
@@ -729,7 +729,7 @@ O programa distingue:
 
 ### Núcleo Fundador
 
-Hugo de Paula, Ricardo Guimarães e Cláudio de Moura Castro. Decisões substantivas por dois terços; estruturais por dois terços e parecer externo ad hoc.
+Ricardo Queiroz Guimaães, Hugo de Paula e Cláudio de Moura Castro. Decisões substantivas por dois terços; estruturais por dois terços e parecer externo ad hoc.
 
 ### Revisores ad hoc
 
@@ -810,7 +810,7 @@ Cook, D. A., & Hatala, R. (2016). Validation of educational assessments: A prime
 
 Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (3rd ed.). SAGE.
 
-de Moura Castro, C., & Guimarães, R. (n.d.). *MAPES — Método de Aprendizagem por Estruturação Sistêmica*. Projeto MAPES/LAPAN-UFMG.
+de Moura Castro, C., & Guimaães, R. (n.d.). *MAPES — Método de Aprendizagem por Estruturação Sistêmica*. Projeto MAPES/LAPAN-UFMG.
 
 Deslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. *Proceedings of the National Academy of Sciences, 116*(39), 19251–19257. https://doi.org/10.1073/pnas.1821936116
 

@@ -20,9 +20,9 @@ yaml_header = """---
 title: "Revisão Sistematizada da Literatura para Fundamentação e Validação do MAPES"
 subtitle: "Síntese Crítica, Fundamentação Epistemológica e Mapeamento de Evidências (Versão 0.10.0)"
 author:
-  - "Hugo de Paula"
-  - "Ricardo Guimarães"
-  - "Cláudio de Moura Castro"
+    - "Ricardo Queiroz Guimaães"
+    - "Hugo de Paula"
+    - "Cláudio de Moura Castro"
 date: "29 de julho de 2026"
 institute: "LAPAN / UFMG"
 lang: pt-BR

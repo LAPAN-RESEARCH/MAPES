@@ -2,8 +2,8 @@
 title: "MAPES — Método de Aprendizagem por Estruturação Sistêmica"
 subtitle: "Versão 0.10.0 — Consolidação pedagógica, metodológica e institucional"
 author:
+  - "Ricardo Queiroz Guimaães"
   - "Hugo de Paula"
-  - "Ricardo Guimarães"
   - "Cláudio de Moura Castro"
 date: "29 de julho de 2026"
 institute: "LAPAN / UFMG"
@@ -39,7 +39,7 @@ This document defines foundations, assumptions, constructs, relationships, testa
 
 O contexto educacional contemporâneo não pode ser descrito apenas como transição da escassez para a abundância. Bibliotecas digitais, plataformas, vídeos, redes sociais e sistemas de inteligência artificial ampliaram radicalmente a disponibilidade de explicações e respostas, mas não distribuíram de modo equivalente as capacidades de selecionar fontes, identificar relações, avaliar confiança e mobilizar conhecimento. Acesso e aprendizagem não são sinônimos.
 
-O manifesto que originou o MAPES utiliza a imagem de um galpão repleto de peças de automóvel sem planta de montagem (de Moura Castro & Guimarães, n.d.). A metáfora expressa uma distinção pedagógica importante: conhecer nomes e partes não assegura compreender a arquitetura que lhes atribui posição e função. Em termos acadêmicos, o problema pode ser formulado como discrepância entre **disponibilidade informacional** e **organização cognitiva, curricular e epistemológica**.
+O manifesto que originou o MAPES utiliza a imagem de um galpão repleto de peças de automóvel sem planta de montagem (de Moura Castro & Guimaães, n.d.). A metáfora expressa uma distinção pedagógica importante: conhecer nomes e partes não assegura compreender a arquitetura que lhes atribui posição e função. Em termos acadêmicos, o problema pode ser formulado como discrepância entre **disponibilidade informacional** e **organização cognitiva, curricular e epistemológica**.
 
 A ciência da aprendizagem mostra que conhecimentos prévios influenciam interpretação e memória; especialistas reconhecem estruturas profundas; e novatos podem perceber os mesmos materiais segundo características superficiais (Bransford et al., 2000; Chi et al., 1981; National Academies of Sciences, Engineering, and Medicine, 2018). Isso não significa que o professor deva simplesmente entregar um mapa completo. Significa que relações organizadoras precisam tornar-se objeto explícito de ensino, uso e revisão.
 
@@ -1604,7 +1604,7 @@ A fase piloto necessita rigor e agilidade. Governança extensa criaria órgãos 
 
 ## Núcleo Fundador
 
-Composto por Hugo de Paula, Ricardo Guimarães e Cláudio de Moura Castro.
+Composto por Ricardo Queiroz Guimaães, Hugo de Paula e Cláudio de Moura Castro.
 
 Atribuições:
 
@@ -1714,12 +1714,12 @@ Papéis possíveis: conceituação, metodologia, software, validação, investig
 
 ## Citação oficial
 
-> de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
+> Guimaães, R. Q., de Paula, H., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
 
 Exemplos:
 
 - (de Paula et al., 2026)
-- de Paula, Guimarães e de Moura Castro (2026)
+- Guimaães, de Paula e de Moura Castro (2026)
 
 Após o depósito institucional, a referência deverá ser atualizada com o DOI ou URL persistente. A forma de sobrenomes segue a APA 7, e não a forma provisória “Hugo, R.”.
 
@@ -2021,7 +2021,7 @@ Chi, M. T. H. (2021). Translating a theory of active learning: An attempt to clo
 
 Choi, G. W., Kim, S. H., Lee, D., & Moon, J. (2024). Utilizing generative AI for instructional design: Exploring strengths, weaknesses, opportunities, and threats. *TechTrends, 68*(4), 832–844. https://doi.org/10.1007/s11528-024-00967-w
 
-de Moura Castro, C., & Guimarães, R. (n.d.). *MAPES — Método de Aprendizagem por Estruturação Sistêmica*. Projeto MAPES/LAPAN-UFMG.
+de Moura Castro, C., & Guimaães, R. (n.d.). *MAPES — Método de Aprendizagem por Estruturação Sistêmica*. Projeto MAPES/LAPAN-UFMG.
 
 Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01
 
@@ -2700,8 +2700,8 @@ A versão depositada deverá apresentar declaração CRediT validada pelos autor
 
 | Autor | Conceituação | Metodologia | Redação | Supervisão | Validação | Outros |
 |---|---|---|---|---|---|---|
+| Ricardo Queiroz Guimaães | a confirmar | a confirmar | a confirmar | a confirmar | a confirmar | |
 | Hugo de Paula | a confirmar | a confirmar | a confirmar | a confirmar | a confirmar | |
-| Ricardo Guimarães | a confirmar | a confirmar | a confirmar | a confirmar | a confirmar | |
 | Cláudio de Moura Castro | a confirmar | a confirmar | a confirmar | a confirmar | a confirmar | |
 
 Não se deve preencher contribuições por inferência externa.

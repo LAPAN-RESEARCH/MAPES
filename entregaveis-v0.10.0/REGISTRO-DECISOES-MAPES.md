@@ -150,7 +150,7 @@ A instituição estabelece políticas, limites e governança. Esse arranjo é de
 
 **Estrutura:**
 
-- Núcleo Fundador: Hugo de Paula, Ricardo Guimarães e Cláudio de Moura Castro;
+- Núcleo Fundador: Ricardo Queiroz Guimaães, Hugo de Paula e Cláudio de Moura Castro;
 - revisores externos *ad hoc*;
 - rede de aplicadores-piloto sem papel deliberativo permanente.
 
@@ -165,11 +165,11 @@ A instituição estabelece políticas, limites e governança. Esse arranjo é de
 
 ## D-012 — Autoria e citação
 
-**Decisão:** a autoria do documento fundador permanece com Hugo de Paula, Ricardo Guimarães e Cláudio de Moura Castro. Autoria de estudos, instrumentos, software e casos será definida por produto.
+**Decisão:** a autoria do documento fundador permanece com Ricardo Queiroz Guimaães, Hugo de Paula e Cláudio de Moura Castro. Autoria de estudos, instrumentos, software e casos será definida por produto.
 
 **Citação vigente:**
 
-> de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
+> Guimaães, R. Q., de Paula, H., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
 
 **Pendência:** atualizar com DOI ou URL persistente após depósito.
 

@@ -24,8 +24,8 @@ yaml_header = """---
 title: "MAPES — Método de Aprendizagem por Estruturação Sistêmica"
 subtitle: "Versão 0.10.0 — Consolidação pedagógica, metodológica e institucional"
 author:
-  - "Hugo de Paula"
-  - "Ricardo Guimarães"
+    - "Ricardo Queiroz Guimaães"
+    - "Hugo de Paula"
   - "Cláudio de Moura Castro"
 date: "29 de julho de 2026"
 institute: "LAPAN / UFMG"

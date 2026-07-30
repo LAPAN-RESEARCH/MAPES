@@ -99,6 +99,6 @@ O professor permanece responsável pela finalidade educacional, validade do cont
 
 ## 8. Forma de citação da versão
 
-> de Paula, H., Guimarães, R., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
+> Guimaães, R. Q., de Paula, H., & de Moura Castro, C. (2026). *MAPES — Método de Aprendizagem por Estruturação Sistêmica* (Versão 0.10.0) [Framework pedagógico, metodológico e institucional]. Projeto MAPES/LAPAN-UFMG.
 
 Após o depósito, substituir a informação final pelo repositório e DOI ou URL persistente.
