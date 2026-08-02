@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: MAPES — Método de Aprendizagem por Estruturação Sistêmica
 message: If you use this software/repository, please cite it using the metadata from
   this file.
-type: software
+type: article
 authors:
 - family-names: Guimaães
   given-names: Ricardo Queiroz
@@ -13,15 +13,13 @@ authors:
 - family-names: de Moura Castro
   given-names: Cláudio
 repository-code: https://github.com/LAPAN-RESEARCH/edu-mapes-framework.git
-abstract: Pedagogical, methodological, and institutional framework for systemic
-  structuring of complex knowledge, teaching, learning, assessment, adaptation,
-  and continuous improvement.
+abstract: Pedagogical framework for systemic structuring of complex knowledge and
+  for planning, producing, implementing, assessing, and revising learning.
 keywords:
 - mapes
 - education
 - framework
 - pedagogy
-- ai-in-education
-- latex
-date-released: '2026-07-29'
-version: 0.10.0
+- pedagogy
+date-released: '2026-08-02'
+version: 0.11.0
