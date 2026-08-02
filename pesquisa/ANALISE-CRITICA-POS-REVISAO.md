@@ -1,0 +1,17 @@
+# Análise crítica pós-revisão
+
+## Resultado editorial
+
+A estrutura revisada reduz fontes concorrentes e transforma o percurso público em três publicações: livro, formação e revisão da literatura. O processo de seis etapas e o Plano MAPES da Aula diminuem a distância entre conceito e aplicação. A simplificação também tem custo: termos como Blueprint, Teleonomia e Taxonomia Acelerada continuam exigindo mediação e exemplos em campo.
+
+## Riscos remanescentes
+
+Relevância Sistêmica com três categorias é mais manejável, mas pode ser insuficiente para currículos muito extensos ou regulados. O Plano centraliza decisões antes dispersas; durante o piloto, ele pode voltar a crescer. Um campo novo só deve entrar quando substituir outro ou registrar uma decisão que hoje não possa ser justificada.
+
+## Evidência e formação
+
+Esta revisão melhora legibilidade, não valida eficácia. A síntese bibliográfica é seletiva e sistematizada, e o protocolo sistemático ainda aguarda execução. Também não há evidência sobre tempo de formação, dificuldade de uso ou consistência dos planos produzidos. Um piloto deve observar compreensão dos termos, qualidade das tarefas, tempo docente e evidências de transferência.
+
+## Publicações
+
+As figuras foram desenhadas para explicar relações com texto, forma e sequência, sem depender somente de cor. A inspeção visual dos PDFs deve acompanhar toda regeneração, porque alterações de Pandoc, fontes ou conteúdo podem reintroduzir cortes e quebras. O Manifesto técnico permanece opcional: não deve crescer até competir com o plano pedagógico.

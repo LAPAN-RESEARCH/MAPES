@@ -1,0 +1,15 @@
+# Exemplo — Administração segura de medicamentos
+
+## Contexto e fontes
+
+Uma turma inicial de enfermagem dispõe de 90 minutos para decidir se uma administração pode prosseguir diante de uma prescrição. As fontes são o protocolo institucional da disciplina e a bibliografia indicada pelo professor. Muitos estudantes lembram os “certos”, mas não explicam por que uma informação ausente exige interrupção.
+
+## Estrutura e planejamento
+
+O Blueprint delimita a decisão anterior à administração: prescrição, paciente, medicamento, dose, via, horário e registro. A relação de Núcleo é “a identificação confirmada do paciente condiciona a continuidade da administração”. Teleonomicamente, a confirmação reduz a possibilidade de associação incorreta entre prescrição e pessoa; a consequência esperada é segurança do processo.
+
+A atividade começa com uma prescrição incompleta e pede uma decisão justificada. Os estudantes recebem uma ficha de conferência depois de formular a hipótese, com o objetivo de analisar a relação, não só recordá-la. O primeiro caso é a âncora; um segundo caso com mudança de via testa transferência. Aspectos históricos do protocolo ficam como Aprofundamento.
+
+## Evidência e revisão
+
+Uma resposta adequada interrompe a administração, identifica a informação faltante e explica sua relação com a segurança. O professor observa se a ficha virou checklist mecânico ou sustentou a justificativa. Após a aula, ele decide se o segundo caso precisa de mais apoio e aprova a versão revisada dos materiais.

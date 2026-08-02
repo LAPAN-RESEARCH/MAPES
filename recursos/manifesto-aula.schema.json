@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Manifesto da Aula MAPES (opcional)",
+  "type": "object",
+  "required": ["aula", "objetivo", "aprovacao_docente"],
+  "properties": {
+    "aula": {"type": "string"},
+    "objetivo": {"type": "string"},
+    "fontes": {"type": "array", "items": {"type": "string"}},
+    "prioridades": {"type": "array", "items": {"type": "object", "properties": {"elemento": {"type": "string"}, "categoria": {"enum": ["Núcleo", "Apoio", "Aprofundamento"]}}}},
+    "aprovacao_docente": {"type": "string"}
+  }
+}

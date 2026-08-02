@@ -1,22 +1,27 @@
 # MAPES — Método de Aprendizagem por Estruturação Sistêmica
 
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://latex-project.org)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-[![CITATION.cff](https://img.shields.io/badge/CITATION.cff-cited-blue?style=for-the-badge&logo=github)](CITATION.cff)
+O MAPES é um framework pedagógico para organizar conhecimentos como sistemas e orientar planejamento, produção, implementação, avaliação e revisão de experiências de aprendizagem. Pode ser aplicado manualmente, por equipes humanas ou com apoio tecnológico; tecnologia e IA não integram sua definição conceitual.
 
+O professor é a autoridade acadêmica: responde pelo conteúdo, estratégia pedagógica, atividades, avaliação e aprovação dos materiais antes do uso.
 
-Repositório oficial do **MAPES — Método de Aprendizagem por Estruturação Sistêmica**, framework pedagógico, metodológico e institucional de aplicação transversal para organizar conhecimentos complexos como sistemas. Tecnologias digitais e inteligência artificial podem apoiar sua implementação, sem integrar sua definição conceitual.
+## Leitura e aplicação
 
-## 📁 Estrutura do Repositório
+- [Livro MAPES](livro/MAPES.md) e [PDF](dist/MAPES-Livro.pdf)
+- [Formação Docente MAPES](formacao-docente/FORMACAO-DOCENTE-MAPES.md), [Plano MAPES da Aula](formacao-docente/PLANO-MAPES-DA-AULA.md) e [PDF](dist/MAPES-Formacao-Docente.pdf)
+- [Revisão da Literatura](pesquisa/REVISAO-DA-LITERATURA-MAPES.md), [protocolo](pesquisa/PROTOCOLO-REVISAO-SISTEMATICA-MAPES.md), [análise crítica](pesquisa/ANALISE-CRITICA-POS-REVISAO.md) e [PDF](dist/MAPES-Revisao-da-Literatura.pdf)
+- [Manifesto da Aula](recursos/MANIFESTO-DA-AULA.md), um registro técnico opcional.
 
-- **`formacao-docente-essencial-v0.1.1/`**: materiais de formação docente, curso autoinstrucional, templates, prompts e guias rápidos.
-- **`entregaveis-v0.10.0/`**: documento fundador, manual, especificação do MAPES Core, Perfil Institucional, glossário, revisão de literatura, plano de pesquisa e documentos de decisão/QA.
-- **`referencias/`**: Documentos de consolidação teórica, diretrizes, estilos e referências bibliográficas.
+## Publicações e verificações
 
-## 🔬 Organização
+São necessários Python 3, Pandoc, XeLaTeX, Poppler e Graphviz.
 
-Desenvolvido no âmbito do **LAPAN RESEARCH**.
+```bash
+make books
+make verify
+```
 
-## 👥 Authors & Contributors
+`make books` gera as figuras e os três PDFs em `dist/`, renderiza todas as páginas para inspeção e mantém as imagens de revisão em `dist/rendered/` (ignoradas pelo Git). `make verify` verifica termos obsoletos, estrutura, links locais e publicações esperadas.
 
-- 👨‍🏫 [Prof. Hugo de Paula](https://github.com/hugodepaula) (Universidade Federal de Minas Gerais / LAPAN)
+## Estado da evidência
+
+O framework está em desenvolvimento. A revisão publicada é **sistematizada**, não uma revisão sistemática concluída; o protocolo reproduzível ainda precisa ser executado. Não há alegação de eficácia do MAPES como sistema integrado.
