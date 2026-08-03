@@ -1,0 +1,31 @@
+# Nota regulatória e de evidências
+
+## Avaliação da educação superior
+
+O Inep informa que os Instrumentos de Avaliação de Cursos de Graduação subsidiam autorização, reconhecimento e renovação de reconhecimento e verificam três dimensões: organização didático-pedagógica, corpo docente e tutorial, e infraestrutura. O MAPES tem relação principal com a primeira dimensão. A contribuição deve ser apresentada como produção e organização de evidências pedagógicas, não como atendimento automático a indicadores.
+
+O reconhecimento do curso utiliza a avaliação externa in loco como referencial básico. Conceito insatisfatório ou dimensão insatisfatória pode levar a protocolo de compromisso. O MAPES não substitui o processo regulatório, mas pode apoiar a demonstração de coerência entre planejamento e implementação.
+
+O Enade avalia o rendimento dos concluintes em conteúdos, competências e habilidades previstos nas diretrizes curriculares. Não há base para afirmar que o MAPES melhora resultados no exame; essa relação depende do curso, da implementação e de evidência empírica.
+
+## NR-1
+
+A redação da NR-1 vigente desde 26 de maio de 2026 inclui fatores de risco psicossociais relacionados ao trabalho no Gerenciamento de Riscos Ocupacionais. A Fundacentro orienta que a aplicação considere a organização e a gestão real do trabalho e a participação dos trabalhadores.
+
+O MAPES não é ferramenta de conformidade com a NR-1. Uma eventual redução de retrabalho ou urgência pode ser observada no piloto, mas deverá ser tratada como resultado organizacional e integrada, quando pertinente, às políticas de SST da instituição.
+
+## Evidências sobre trabalho docente e IA
+
+A literatura sobre carga docente mostra que o trabalho acadêmico inclui preparação, ensino, pesquisa, serviço e administração, e que medidas simplistas de carga podem omitir parte relevante das atividades. Estudos também associam estresse ocupacional a burnout em docentes do ensino superior. Esses achados justificam medir tempo e experiência no piloto, mas não justificam converter o MAPES em intervenção de saúde ocupacional.
+
+A UNESCO recomenda abordagem centrada no ser humano para IA na educação, com agência docente, competência para avaliação crítica, proteção de dados e validação pedagógica. Por isso, automação no MAPES deve ser apresentada como opção futura, não como condição do framework.
+
+## Fontes principais
+
+- Ministério do Trabalho e Emprego. NR-1 - Disposições Gerais e Gerenciamento de Riscos Ocupacionais.
+- Fundacentro. Diretrizes para aplicar a NR-1 com a inclusão dos riscos psicossociais, 2026.
+- Inep. Avaliação in loco; Instrumentos de avaliação; Enade.
+- UNESCO. Guidance for generative AI in education and research, 2023/2026.
+- UNESCO. AI competency framework for teachers, 2024.
+- Griffith e Altinay. A framework to assess higher education faculty workload, 2020.
+- Shi, Omar e Ismail. Job stress and burnout among lecturers, 2025.

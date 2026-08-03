@@ -1,0 +1,80 @@
+# Caderno executivo do piloto MAPES
+
+## Finalidade
+
+Este caderno orienta a decisão e a avaliação de um piloto institucional do MAPES. Ele não substitui protocolo de pesquisa, plano de ensino ou documentação regulatória.
+
+## Escopo recomendado
+
+- duas a quatro disciplinas;
+- professores voluntários;
+- um responsável acadêmico pelo piloto;
+- uma oferta ou conjunto de aulas claramente delimitado;
+- linha de base baseada na versão anterior da disciplina;
+- duração compatível com o calendário acadêmico.
+
+## Hipóteses e evidências
+
+| Hipótese | Evidência mínima | Critério para continuidade |
+|---|---|---|
+| O planejamento ficou mais coerente | análise de objetivos, tarefas, materiais e avaliação antes/depois | melhoria identificável por docentes e revisão acadêmica |
+| Os estudantes mobilizaram conhecimento de forma mais complexa | produtos, respostas, casos ou tarefas de transferência | evidência superior à mera recuperação de informação |
+| O processo pode reduzir retrabalho | registro de tempo por tipo de tarefa e número de revisões | redução após o investimento inicial ou justificativa clara para o custo adicional |
+| A estrutura pode ser reutilizada | nova oferta, atualização ou uso por outro professor | manutenção dos elementos essenciais com menor esforço |
+
+## Linha de base
+
+Antes do piloto, registrar:
+
+- versão atual do plano e dos materiais;
+- objetivos e formas de avaliação;
+- tempo aproximado de preparação, atualização e correção;
+- principais dificuldades percebidas pelo professor;
+- indicadores acadêmicos disponíveis;
+- materiais que podem ser reutilizados.
+
+## Indicadores por dimensão
+
+### Qualidade
+
+- alinhamento entre objetivo, atividade e avaliação;
+- clareza e precisão dos materiais;
+- presença de problemas e tarefas autênticas;
+- qualidade das justificativas e relações produzidas pelos estudantes;
+- uso do feedback na revisão.
+
+### Viabilidade
+
+- horas de formação;
+- horas de planejamento;
+- horas de produção e revisão;
+- dificuldades de uso;
+- apoio necessário;
+- efeitos indesejados, inclusive burocratização.
+
+### Reutilização
+
+- proporção de materiais reaproveitados;
+- tempo para atualizar a oferta;
+- facilidade de localizar fontes e decisões;
+- necessidade de reconstrução integral.
+
+### Escala
+
+- adoção por outro docente;
+- consistência entre turmas;
+- dependência dos autores iniciais;
+- necessidade de infraestrutura ou equipe adicional.
+
+## Resultados exploratórios
+
+Permanência, satisfação, avaliações docentes, Enade, custos e receita podem ser acompanhados quando disponíveis. Eles não devem ser atribuídos ao MAPES sem desenho adequado e não são critérios primários do primeiro piloto.
+
+## Decisão ao final
+
+| Decisão | Condição |
+|---|---|
+| Interromper | ausência de ganho pedagógico ou carga desproporcional |
+| Revisar e repetir | mecanismo promissor, mas problemas de implementação |
+| Ampliar o piloto | qualidade observável, viabilidade aceitável e perspectiva de reutilização |
+| Preparar escala | resultados repetidos, adoção por outros docentes e suporte institucional definido |

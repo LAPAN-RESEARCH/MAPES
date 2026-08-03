@@ -1,2 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment and local configuration
+.env
+.env.local
+
+# Node and Python caches
+node_modules/
+__pycache__/
+*.pyc
+
+# Generated review files
 dist/rendered/
 tmp/

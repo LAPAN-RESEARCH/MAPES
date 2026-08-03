@@ -2,9 +2,9 @@ cff-version: 1.2.0
 title: MAPES — Método de Aprendizagem por Estruturação Sistêmica
 message: If you use this software/repository, please cite it using the metadata from
   this file.
-type: article
+type: other
 authors:
-- family-names: Guimaães
+- family-names: Guimarães
   given-names: Ricardo Queiroz
 - family-names: de Paula
   given-names: Hugo
@@ -19,7 +19,6 @@ keywords:
 - mapes
 - education
 - framework
-- pedagogy
 - pedagogy
 date-released: '2026-08-02'
 version: 0.11.0

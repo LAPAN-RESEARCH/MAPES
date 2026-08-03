@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="270" viewBox="0 0 1400 270">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="55" y="42" font-family="Arial" font-size="28" font-weight="700" fill="#17324D">Como o MAPES cria valor</text>
+<rect x="55.0" y="105" rx="14" ry="14" width="226.0" height="86" fill="#EAF0F4" stroke="#2E5D7B" stroke-width="2"/>
+<text x="168.0" y="134.0" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600" fill="#263238">Planejamento</text>
+<text x="168.0" y="162.0" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600" fill="#263238">estruturado</text>
+<line x1="289.0" y1="148.0" x2="313.0" y2="148.0" stroke="#2E5D7B" stroke-width="4"/>
+<polygon points="313.0,148.0 301.0,140.0 301.0,156.0" fill="#2E5D7B"/>
+<rect x="321.0" y="105" rx="14" ry="14" width="226.0" height="86" fill="#EAF0F4" stroke="#2E5D7B" stroke-width="2"/>
+<text x="434.0" y="148.0" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600" fill="#263238">Produção organizada</text>
+<line x1="555.0" y1="148.0" x2="579.0" y2="148.0" stroke="#2E5D7B" stroke-width="4"/>
+<polygon points="579.0,148.0 567.0,140.0 567.0,156.0" fill="#2E5D7B"/>
+<rect x="587.0" y="105" rx="14" ry="14" width="226.0" height="86" fill="#EAF0F4" stroke="#2E5D7B" stroke-width="2"/>
+<text x="700.0" y="134.0" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600" fill="#263238">Aprendizagem</text>
+<text x="700.0" y="162.0" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600" fill="#263238">coerente</text>
+<line x1="821.0" y1="148.0" x2="845.0" y2="148.0" stroke="#2E5D7B" stroke-width="4"/>
+<polygon points="845.0,148.0 833.0,140.0 833.0,156.0" fill="#2E5D7B"/>
+<rect x="853.0" y="105" rx="14" ry="14" width="226.0" height="86" fill="#EAF0F4" stroke="#2E5D7B" stroke-width="2"/>
+<text x="966.0" y="148.0" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600" fill="#263238">Avaliação alinhada</text>
+<line x1="1087.0" y1="148.0" x2="1111.0" y2="148.0" stroke="#2E5D7B" stroke-width="4"/>
+<polygon points="1111.0,148.0 1099.0,140.0 1099.0,156.0" fill="#2E5D7B"/>
+<rect x="1119.0" y="105" rx="14" ry="14" width="226.0" height="86" fill="#EAF0F4" stroke="#2E5D7B" stroke-width="2"/>
+<text x="1232.0" y="148.0" text-anchor="middle" font-family="Arial" font-size="20" font-weight="600" fill="#263238">Revisão contínua</text>
+</svg>
