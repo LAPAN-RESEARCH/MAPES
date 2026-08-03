@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+/MAPES-*.html
+/MAPES-*.pdf
+/livro/livro/
+**/*.quarto_ipynb

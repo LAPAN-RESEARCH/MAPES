@@ -17,4 +17,6 @@ __pycache__/
 
 # Generated review files
 dist/rendered/
+dist/*.html
+dist/*_files/
 tmp/

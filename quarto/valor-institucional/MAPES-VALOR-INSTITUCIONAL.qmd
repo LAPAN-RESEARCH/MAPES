@@ -1,0 +1,152 @@
+# MAPES - Valor Institucional
+
+## Proposta executiva para um piloto em instituições de ensino superior
+
+**Versão:** 1.0<br>
+**Data:** 2 de agosto de 2026<br>
+**Público:** Reitoria, mantenedora, direção acadêmica, fundações, órgãos públicos e potenciais parceiros institucionais.
+
+> Este documento não procura demonstrar que o MAPES já produz todos os benefícios aqui discutidos. Seu objetivo é apresentar os mecanismos pelos quais o framework pode gerar valor institucional e justificar a realização de um piloto controlado para avaliar esses efeitos.
+
+## Resumo executivo
+
+Produzir disciplinas consistentes em escala é difícil. Em muitas instituições, objetivos, conteúdos, atividades, materiais e avaliações são elaborados em momentos diferentes, por pessoas diferentes e com pouco reaproveitamento entre ofertas. O resultado tende a ser retrabalho docente, materiais heterogêneos e dificuldade para demonstrar, de forma simples, como o planejamento se converte em aprendizagem.
+
+O MAPES - Método de Aprendizagem por Estruturação Sistêmica - é um framework educacional que organiza esse processo. Ele orienta o professor a estruturar o conhecimento como sistema, selecionar o que é relevante, formular problemas e atividades cognitivamente exigentes, produzir os materiais necessários, implementar a aula, avaliar a aprendizagem e revisar o planejamento. O professor permanece responsável pelo conteúdo e pela aprovação dos materiais. Equipes de apoio e tecnologias podem participar da produção, mas não substituem essa responsabilidade.
+
+A contribuição mais defensável do MAPES é a melhoria do desenho pedagógico. Há também possibilidades de valor operacional: reutilização de planejamento, atualização localizada de materiais, redução de retrabalho e, futuramente, automação de parte da produção. Apoio regulatório, permanência estudantil, resultados financeiros e melhoria das condições de trabalho são consequências possíveis, mas dependem da implementação e precisam ser medidas.
+
+A decisão proposta não é adotar o MAPES em toda a instituição. É autorizar um piloto pequeno, com disciplinas selecionadas, professores voluntários, linha de base e critérios de continuidade. O piloto deve responder a quatro perguntas: a qualidade do planejamento melhorou? A aprendizagem produziu evidências mais consistentes? O trabalho docente tornou-se mais eficiente? A implementação pode ser repetida em outras disciplinas sem perda de qualidade?
+
+## 1. O problema institucional
+
+A unidade básica do ensino superior é a experiência de aprendizagem construída pelo professor. Entretanto, a instituição normalmente administra essa unidade por documentos separados: Projeto Pedagógico do Curso, plano de ensino, materiais, avaliações, relatórios e registros de revisão. Esses documentos são necessários, mas não garantem que o processo seja coerente.
+
+Uma disciplina pode declarar competências amplas e continuar baseada em exposição e memorização. Materiais podem crescer por acumulação, sem que o professor distingua o que é central do que é apoio ou aprofundamento. Avaliações podem privilegiar conteúdos periféricos. Quando a disciplina muda de professor ou de modalidade, parte considerável do trabalho pode ser reconstruída. A instituição percebe o problema tarde: em reclamações, reprovações, baixa participação, resultados insuficientes ou preparação emergencial para processos regulatórios.
+
+Esse não é apenas um problema pedagógico. É também um problema de operação. O conhecimento sobre como a disciplina funciona permanece disperso em arquivos, práticas individuais e decisões não registradas. O tempo docente é consumido não apenas pelo conteúdo, mas por organização, formatação, reconstrução e correção de inconsistências. A digitalização, por si só, não resolve o problema; pode apenas aumentar o volume de materiais.
+
+O MAPES atua nesse ponto. Ele não cria uma nova instância administrativa. Ele organiza o processo pelo qual o professor transforma conhecimento em uma experiência de aprendizagem e, depois, usa as evidências da aula para revisar a próxima versão.
+
+## 2. O mecanismo do MAPES
+
+O MAPES estrutura um fluxo único: preparar, estruturar, planejar, organizar e produzir, implementar, avaliar e revisar. Essas etapas podem ocorrer em uma aula, unidade, módulo ou disciplina. A documentação deve ser proporcional à complexidade e ao uso pretendido.
+
+Na preparação, o professor define o contexto, os resultados esperados, as fontes e as restrições. Na estruturação, representa componentes, relações, funções e prioridades do conhecimento. No planejamento, transforma essa estrutura em problemas, atividades, apoios e evidências de aprendizagem. Na produção, prepara apenas os materiais necessários à estratégia. Durante a implementação, observa como os estudantes usam o conhecimento. Na avaliação e revisão, distingue dificuldades do estudante de falhas na atividade, no material ou no próprio modelo da disciplina.
+
+Esse fluxo não depende de uma tecnologia. Pode ser realizado diretamente pelo professor, com apoio de design instrucional, por equipes de produção ou com ferramentas de inteligência artificial. A tecnologia ganha valor quando trabalha sobre entradas estruturadas e fontes autorizadas. Sem essa base, a automação tende a gerar mais conteúdo, não necessariamente melhor ensino.
+
+### Como o MAPES cria valor
+
+**Planejamento estruturado -> produção organizada -> experiência de aprendizagem coerente -> avaliação alinhada -> revisão contínua.**
+
+O Livro MAPES apresenta a fundamentação e os construtos do framework. Este documento limita-se ao mecanismo institucional e à decisão de testar sua utilidade.
+
+## 3. Quatro dimensões de valor
+
+### 3.1 Qualidade acadêmica: contribuição direta
+
+O MAPES foi criado para melhorar a qualidade do planejamento e da aprendizagem. Ele exige que o professor explicite como o conhecimento se organiza, que função desempenha, o que o estudante deverá fazer com ele e em que contexto será mobilizado. Isso favorece o alinhamento entre objetivos, atividades, materiais, avaliação e feedback.
+
+Essa contribuição é direta porque decorre do próprio processo do framework. Ainda assim, não é automática. Uma aula MAPES pode ser inadequada se o problema for artificial, se a tarefa exceder o preparo do estudante, se os materiais forem imprecisos ou se o professor não conseguir mediar a atividade. O framework torna decisões visíveis; não substitui domínio disciplinar ou competência docente.
+
+No piloto, qualidade deve ser observada por evidências concretas: alinhamento entre resultados e tarefas, qualidade dos materiais, uso de relações e funções pelos estudantes, capacidade de aplicar o conhecimento em variações e utilidade do feedback para revisar a aula.
+
+### 3.2 Eficiência operacional: contribuição plausível
+
+A primeira implementação pode exigir mais tempo, porque o professor aprende o framework e revê uma disciplina existente. O benefício operacional aparece quando a estrutura produzida pode ser reutilizada e atualizada.
+
+O MAPES pode reduzir retrabalho ao manter, em uma mesma lógica, fontes, estrutura do conteúdo, problema, atividades, materiais e avaliação. Uma mudança em uma fonte ou objetivo pode ser localizada e propagada aos materiais relacionados. Turmas e professores podem compartilhar uma base sem transformar a disciplina em roteiro rígido. Versões anteriores podem ser comparadas, e decisões podem ser justificadas sem reconstruir todo o histórico.
+
+A automação amplia essa possibilidade. A partir de um plano estruturado e de fontes definidas, sistemas de IA podem propor notas, slides, exercícios, quizzes e avaliações. O professor revisa, corrige e aprova. O ganho não deve ser medido pelo número de arquivos gerados, mas pelo tempo total de trabalho, pela redução de erros e pela manutenção da qualidade.
+
+É necessário distinguir capacidade liberada, custo evitado e economia realizada. No início, o resultado mais provável é capacidade liberada: tempo antes consumido por tarefas repetitivas que passa a ser usado em conteúdo, mediação e feedback. Economia orçamentária e aumento de escala exigem dados posteriores.
+
+### 3.3 Apoio regulatório: contribuição concentrada
+
+As avaliações in loco de cursos examinam organização didático-pedagógica, corpo docente e tutorial e infraestrutura. O MAPES se relaciona principalmente com a primeira dimensão, porque organiza objetivos, conteúdos, metodologia, materiais e avaliação da aprendizagem. Ele pode produzir evidências mais claras de que essas partes formam um processo coerente.
+
+O MAPES não atende indicadores regulatórios por si. Não substitui PPC, NDE, colegiado, coordenação, CPA, titulação docente, regime de trabalho ou infraestrutura. Também não assegura conceito satisfatório. Seu valor regulatório é mais restrito: ajudar a instituição a demonstrar, com materiais e registros reais, como o planejamento declarado foi implementado e revisado.
+
+Por isso, o dossiê não apresenta uma correspondência extensa entre o MAPES e todos os indicadores do Inep. A regra é mais simples: só existe contribuição regulatória quando há um mecanismo pedagógico identificável e uma evidência efetivamente produzida na disciplina.
+
+### 3.4 Evolução digital: opção estratégica
+
+O MAPES torna o planejamento mais estruturado e, portanto, mais tratável por ferramentas digitais. Essa característica pode permitir produção assistida, atualização de materiais, comparação de versões, reuso e integração entre disciplinas. A evolução digital não faz parte da definição do framework; é uma possibilidade decorrente de sua estrutura.
+
+Esse ponto interessa a instituições que pretendem ampliar ofertas, manter consistência entre turmas, revisar conteúdos com maior frequência ou apoiar docentes com equipes de produção. A escala só será demonstrada se novas turmas ou novos professores puderem usar a estrutura com menor esforço e sem perda de qualidade.
+
+O uso de IA deve permanecer centrado no professor. Orientações internacionais destacam a necessidade de validação pedagógica, proteção da agência humana, competência docente, privacidade e avaliação crítica das ferramentas. A adoção de automação antes de estabilizar o processo pode apenas acelerar erros.
+
+#### Nota sobre trabalho docente e NR-1
+
+A NR-1 passou a exigir que o gerenciamento de riscos ocupacionais considere fatores psicossociais relacionados ao trabalho. O MAPES não é uma intervenção de saúde ocupacional e não assegura conformidade com a norma. Entretanto, se um piloto reduzir retrabalho, urgências e tarefas operacionais evitáveis, esse resultado pode ser considerado pela instituição dentro de uma estratégia mais ampla de organização do trabalho. O efeito deve ser medido e não deve ser incorporado como promessa do framework.
+
+## 4. O que o MAPES não promete
+
+A credibilidade do piloto depende de limites claros. O MAPES não substitui o professor, não elimina a necessidade de formação, não garante redução de custos, não assegura aumento de receita e não resolve isoladamente a evasão. Também não garante melhora em Enade, conceitos de curso, satisfação estudantil ou saúde docente.
+
+Esses resultados dependem de fatores acadêmicos, financeiros, pessoais, institucionais e regulatórios que ultrapassam o alcance de uma metodologia de ensino. O MAPES pode contribuir para alguns mecanismos intermediários - clareza, coerência, atividade cognitiva, feedback, organização e reuso - mas a ligação com resultados institucionais deve ser demonstrada.
+
+O framework também não deve ser implementado como coleção de formulários. Se a documentação crescer sem melhorar uma decisão pedagógica, ela deve ser reduzida. Se a automação aumentar o tempo de revisão, produzir materiais redundantes ou enfraquecer o julgamento docente, ela não criou valor.
+
+## 5. Por que um piloto faz sentido
+
+A adoção integral seria prematura. Um piloto, ao contrário, tem escopo e risco controláveis. Permite avaliar o framework em disciplinas reais, identificar custos de implementação e aprender antes de qualquer decisão de escala.
+
+O piloto deve envolver duas a quatro disciplinas, preferencialmente com problemas pedagógicos já reconhecidos e professores interessados. A comparação deve considerar a oferta anterior ou uma linha de base construída antes da intervenção. Não é necessário criar uma estrutura administrativa extensa. Um responsável acadêmico coordena o trabalho, os professores conduzem as disciplinas e a instituição apoia apenas as questões que efetivamente exigirem sua participação.
+
+O piloto deverá testar quatro hipóteses:
+
+1. o planejamento MAPES melhora a coerência entre objetivos, atividades, materiais e avaliação;
+2. os estudantes produzem evidências mais consistentes de aplicação, análise e transferência;
+3. depois do investimento inicial, o processo reduz retrabalho ou facilita atualizações;
+4. a estrutura pode ser reutilizada em outra oferta ou por outro professor sem perda dos elementos essenciais.
+
+### Etapas sugeridas
+
+**Preparação, 2 a 3 semanas.** Selecionar disciplinas, registrar materiais e indicadores de linha de base, formar os professores no fluxo MAPES e definir as evidências que serão acompanhadas.
+
+**Desenvolvimento, 3 a 5 semanas.** Elaborar o Plano MAPES da Aula ou unidade, organizar fontes, produzir os materiais necessários e registrar o tempo empregado. Ferramentas digitais podem ser usadas, desde que a versão manual do processo permaneça compreensível.
+
+**Implementação, conforme calendário acadêmico.** Conduzir as aulas, recolher evidências de aprendizagem e registrar ajustes realizados durante o processo.
+
+**Avaliação e decisão, 2 semanas.** Comparar qualidade, aprendizagem, carga de trabalho e possibilidade de reutilização. Registrar também efeitos indesejados. A decisão final pode ser interromper, revisar e repetir, ou ampliar o piloto.
+
+## 6. Como decidir ao final
+
+A decisão não deve depender de um escore único. Quatro dimensões precisam permanecer separadas.
+
+**Qualidade.** Houve melhoria observável no alinhamento, nas tarefas, nos materiais e nas evidências de aprendizagem?
+
+**Viabilidade.** O tempo, a formação e o apoio necessários foram aceitáveis? O processo aumentou ou reduziu a carga operacional?
+
+**Reutilização.** A estrutura produzida pode ser atualizada e utilizada em nova oferta sem reconstrução integral?
+
+**Escala.** Outro professor ou componente curricular consegue adotar o processo sem depender continuamente dos autores do piloto?
+
+A recomendação de continuidade exige, no mínimo, melhoria pedagógica observável, carga de implementação aceitável e perspectiva concreta de reutilização. Resultados financeiros, permanência e indicadores regulatórios podem ser acompanhados, mas não devem decidir sozinhos a primeira etapa.
+
+## Conclusão
+
+O MAPES apresenta uma hipótese institucional simples: uma experiência de aprendizagem melhora quando o conhecimento, o problema, a atividade, os materiais, a avaliação e a revisão são planejados como partes de um mesmo sistema. Essa hipótese é coerente com problemas reconhecidos do ensino superior, mas sua utilidade institucional ainda precisa ser demonstrada em condições reais.
+
+O risco de um piloto pequeno é limitado. Mesmo que os resultados não justifiquem expansão, a instituição obtém informação sobre seu processo de planejamento, o tempo docente, a qualidade dos materiais e as condições necessárias para produzir disciplinas consistentes. Se os resultados forem favoráveis, o piloto cria base para uma segunda decisão: ampliar, automatizar e avaliar efeitos institucionais de maior prazo.
+
+A decisão recomendada é autorizar um piloto controlado do MAPES, com escopo reduzido, responsabilidade docente, métricas definidas e compromisso explícito de revisão antes de qualquer expansão.
+
+# Referências selecionadas
+
+BRASIL. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira. Avaliação in loco e instrumentos de avaliação de cursos de graduação. Brasília: Inep, 2024-2026.
+
+BRASIL. Ministério do Trabalho e Emprego. Norma Regulamentadora nº 1 - Disposições Gerais e Gerenciamento de Riscos Ocupacionais. Redação vigente a partir de 26 de maio de 2026.
+
+FUNDACENTRO. Diretrizes para aplicar a NR-1 com a inclusão dos riscos psicossociais: analisar a organização e gestão do trabalho para intervir. São Paulo: Fundacentro, 2026.
+
+GRIFFITH, A. S.; ALTINAY, Z. A framework to assess higher education faculty workload in U.S. universities. Innovations in Education and Teaching International, v. 57, n. 6, p. 691-700, 2020.
+
+MIAO, F.; CUKUROVA, M. AI competency framework for teachers. Paris: UNESCO, 2024.
+
+MIAO, F.; HOLMES, W. Guidance for generative AI in education and research. Paris: UNESCO, 2023, atualização 2026.
+
+SHI, Y.; OMAR, M. K.; ISMAIL, N. Job stress and burnout among lecturers: a systematic literature review and meta-analysis. Frontiers in Psychology, v. 16, 2025.

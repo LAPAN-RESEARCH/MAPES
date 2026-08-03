@@ -1,0 +1,10 @@
+lang: pt-BR
+author: LAPAN RESEARCH
+bibliography: references.bib
+link-citations: true
+crossref:
+  fig-title: Figura
+  tbl-title: Tabela
+  title-delim: period
+  fig-prefix: Figura
+  tbl-prefix: Tabela
