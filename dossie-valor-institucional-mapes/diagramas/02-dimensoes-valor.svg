@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="60" y="42" font-family="Arial" font-size="30" font-weight="700" fill="#17324D">Quatro dimensões de valor a testar</text>
+<rect x="60.0" y="90" rx="18" width="526.0" height="220" fill="#EAF0F4" stroke="#3D6B57" stroke-width="3"/>
+<rect x="60.0" y="90" rx="18" width="14" height="220" fill="#3D6B57"/>
+<text x="94.0" y="138" font-family="Arial" font-size="25" font-weight="700" fill="#17324D">Qualidade acadêmica</text>
+<text x="94.0" y="172" font-family="Arial" font-size="18" font-weight="600" fill="#3D6B57">Contribuição direta</text>
+<text x="94.0" y="215" font-family="Arial" font-size="19" fill="#263238">Alinhamento entre planejamento, atividades,</text>
+<text x="94.0" y="243" font-family="Arial" font-size="19" fill="#263238">materiais e avaliação.</text>
+<rect x="614.0" y="90" rx="18" width="526.0" height="220" fill="#EAF0F4" stroke="#8A6826" stroke-width="3"/>
+<rect x="614.0" y="90" rx="18" width="14" height="220" fill="#8A6826"/>
+<text x="648.0" y="138" font-family="Arial" font-size="25" font-weight="700" fill="#17324D">Eficiência operacional</text>
+<text x="648.0" y="172" font-family="Arial" font-size="18" font-weight="600" fill="#8A6826">Contribuição plausível</text>
+<text x="648.0" y="215" font-family="Arial" font-size="19" fill="#263238">Reuso, atualização localizada e possível redução</text>
+<text x="648.0" y="243" font-family="Arial" font-size="19" fill="#263238">de retrabalho.</text>
+<rect x="60.0" y="338" rx="18" width="526.0" height="220" fill="#EAF0F4" stroke="#2E5D7B" stroke-width="3"/>
+<rect x="60.0" y="338" rx="18" width="14" height="220" fill="#2E5D7B"/>
+<text x="94.0" y="386" font-family="Arial" font-size="25" font-weight="700" fill="#17324D">Apoio regulatório</text>
+<text x="94.0" y="420" font-family="Arial" font-size="18" font-weight="600" fill="#2E5D7B">Contribuição concentrada</text>
+<text x="94.0" y="463" font-family="Arial" font-size="19" fill="#263238">Evidências pedagógicas mais claras, sem</text>
+<text x="94.0" y="491" font-family="Arial" font-size="19" fill="#263238">substituir processos formais.</text>
+<rect x="614.0" y="338" rx="18" width="526.0" height="220" fill="#EAF0F4" stroke="#17324D" stroke-width="3"/>
+<rect x="614.0" y="338" rx="18" width="14" height="220" fill="#17324D"/>
+<text x="648.0" y="386" font-family="Arial" font-size="25" font-weight="700" fill="#17324D">Evolução digital</text>
+<text x="648.0" y="420" font-family="Arial" font-size="18" font-weight="600" fill="#17324D">Opção estratégica</text>
+<text x="648.0" y="463" font-family="Arial" font-size="19" fill="#263238">Base estruturada para produção assistida, reuso</text>
+<text x="648.0" y="491" font-family="Arial" font-size="19" fill="#263238">e escala.</text>
+</svg>
