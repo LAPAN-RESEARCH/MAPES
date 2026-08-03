@@ -1,0 +1,7 @@
+# Dossiê de Valor Institucional MAPES
+
+Este conjunto é um material executivo destinado a justificar e orientar a decisão sobre um piloto institucional do MAPES. A primeira leitura recomendada é o [memorando MAPES — Valor Institucional](MAPES-VALOR-INSTITUCIONAL.md), que apresenta os mecanismos de valor propostos, seus limites e a decisão de testar o framework em escopo controlado.
+
+O dossiê também reúne o [resumo executivo de uma página](RESUMO-EXECUTIVO-UMA-PAGINA.md), para circulação inicial entre decisores; o [caderno do piloto](CADERNO-PILOTO-MAPES.md), com escopo, evidências e etapas de implementação; a [nota regulatória e de fontes](NOTA-REGULATORIA-E-FONTES.md), que delimita a relação do piloto com evidências e exigências institucionais; e a [nota de atualização bibliográfica](NOTA-ATUALIZACAO-REVISAO-BIBLIOGRAFICA.md), que registra o alcance dessa atualização sem ampliar a revisão da literatura. Os [diagramas](diagramas/) sintetizam o mecanismo de valor, suas dimensões e o percurso do piloto. A pasta [dist/](dist/) contém as publicações correspondentes em PDF e DOCX para distribuição.
+
+Este conjunto não substitui o [Livro MAPES](../livro/MAPES.md), que permanece como referência conceitual do framework. Os benefícios institucionais apresentados aqui são hipóteses e possibilidades de contribuição; precisam ser avaliados por evidências produzidas no piloto antes de sustentar decisões de adoção ou escala.

@@ -14,6 +14,10 @@
 - Livro, formação docente e revisão da literatura em fontes canônicas e PDFs.
 - Diagramas SVG, gerador reproduzível, verificações editoriais, protocolo de revisão sistemática e análise crítica.
 
+### Dossiê de valor institucional
+
+- Memorando executivo de Valor Institucional, resumo de uma página, caderno do piloto, nota regulatória, diagramas e publicações em PDF e DOCX.
+
 ### Removido
 
 - Documentos redundantes da arquitetura v0.10.0, prompts operacionais e o relatório crítico anterior.
