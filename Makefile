@@ -1,4 +1,4 @@
-.PHONY: books figures verify
+.PHONY: books clean figures verify
 
 figures:
 	python3 scripts/generate_figures.py
@@ -8,3 +8,6 @@ books: figures
 
 verify:
 	python3 scripts/verify_content.py
+
+clean:
+	python3 scripts/clean_build.py

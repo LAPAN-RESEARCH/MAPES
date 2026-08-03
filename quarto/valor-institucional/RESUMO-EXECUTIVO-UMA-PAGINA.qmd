@@ -1,0 +1,31 @@
+# MAPES - Valor Institucional
+## Por que realizar um piloto
+
+Produzir disciplinas consistentes em escala exige mais do que bons professores e bons documentos curriculares. Objetivos, conteúdos, atividades, materiais e avaliações precisam funcionar como partes de um mesmo processo. Quando isso não ocorre, surgem retrabalho, materiais heterogêneos e dificuldade para revisar a disciplina ou demonstrar como o planejamento se converte em aprendizagem.
+
+O MAPES é um framework educacional que organiza esse processo. Ele orienta o professor a estruturar o conhecimento, formular problemas e atividades, produzir os materiais necessários, avaliar a aprendizagem e revisar a próxima versão da aula. O professor permanece responsável pelo conteúdo e pela aprovação dos materiais. Equipes e tecnologias podem apoiar a produção.
+
+### Valor a testar
+
+**Qualidade acadêmica - contribuição direta.** Melhor alinhamento entre objetivos, atividades, materiais, avaliação e feedback.
+
+**Eficiência operacional - contribuição plausível.** Reutilização de planejamento, atualização localizada, redução de retrabalho e, futuramente, produção assistida por IA.
+
+**Apoio regulatório - contribuição concentrada.** Evidências mais claras sobre metodologia, materiais e avaliação, sem substituir PPC, NDE, coordenação ou infraestrutura.
+
+**Evolução digital - opção estratégica.** Estrutura que pode apoiar automação, reuso e escala, desde que a qualidade e a autoridade docente sejam preservadas.
+
+### O que ainda não está demonstrado
+
+O MAPES não garante redução de custos, aumento de receita, menor evasão, melhora em Enade, conformidade regulatória ou redução de burnout. Esses efeitos precisam ser medidos. A NR-1 é contexto para a gestão institucional dos riscos psicossociais; o MAPES não constitui intervenção de saúde ocupacional.
+
+### Proposta
+
+Realizar um piloto em duas a quatro disciplinas, com professores voluntários, linha de base e quatro critérios de decisão:
+
+1. melhora pedagógica observável;
+2. carga de implementação aceitável;
+3. possibilidade de reutilização;
+4. capacidade de adoção por outros professores ou componentes.
+
+> A decisão proposta não é adotar o MAPES em toda a instituição. É testar, com risco controlado, se o framework produz valor suficiente para justificar uma segunda etapa.

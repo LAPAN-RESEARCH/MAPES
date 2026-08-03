@@ -1,0 +1,25 @@
+project:
+  type: default
+  output-dir: _site
+
+metadata-files:
+  - _metadata.yml
+
+format:
+  html:
+    toc: true
+    html-math-method: mathjax
+  pdf:
+    toc: true
+    pdf-engine: xelatex
+    documentclass: scrartcl
+    geometry:
+      - a4paper
+      - top=2.3cm
+      - bottom=2.3cm
+      - left=2.5cm
+      - right=2.5cm
+    include-in-header: ../styles/mapes-book.tex
+
+execute:
+  freeze: auto

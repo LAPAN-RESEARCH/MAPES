@@ -1,0 +1,46 @@
+---
+title: "Revisão da Literatura MAPES"
+subtitle: "Síntese sistematizada dos fundamentos e de seus limites"
+date: "2026-08-02"
+lang: pt-BR
+toc: true
+---
+# Escopo e estatuto
+
+Esta é uma revisão **sistematizada** dos fundamentos relevantes ao MAPES. Ela organiza literatura sobre conhecimento estruturado, aprendizagem ativa, transferência, alinhamento, feedback, carga cognitiva e mediação docente. Não é uma revisão sistemática concluída: não há protocolo previamente executado, busca reproduzível completa, dupla triagem, fluxo PRISMA preenchido ou avaliação formal de risco de viés. Consequentemente, não apresenta números de registros nem alegações de exaustividade.
+
+# Convergências úteis
+
+Estudos sobre expertise e mapas conceituais indicam que conhecer não é acumular fatos: relações e princípios profundos ajudam a explicar e a transferir. Evidências sobre aprendizagem ativa, investigação e feedback sugerem que tarefas exigentes podem favorecer aprendizagem quando possuem suporte, alinhamento e condições de implementação adequadas. A literatura sobre carga cognitiva alerta que representações e materiais devem reduzir carga extrínseca, não acrescentá-la.
+
+Essas convergências apoiam componentes do MAPES, mas não demonstram que sua combinação produz efeito superior. Blueprint, Teleonomia, Taxonomia Acelerada, Ancoragem Contextual e Relevância Sistêmica são hipóteses de organização pedagógica que precisam de estudo integrado.
+
+# Implicações para o framework
+
+O MAPES usa a representação sistêmica para tornar relações discutíveis; usa função para evitar tópicos sem consequência; usa tarefas e apoio para exigir operações cognitivas; e usa contexto seguido de abstração e novo caso para tornar a transferência observável. Relevância não é uma escala de dificuldade: ela regula prioridade, enquanto a tarefa define complexidade cognitiva.
+
+Tecnologias podem apoiar produção ou diferenciação, mas a evidência não autoriza transferir a elas autoridade pedagógica. O professor seleciona fontes, interpreta evidências e aprova materiais. Pesquisa acrescenta exigências próprias quando a implementação passa a ser investigada.
+
+# Limites e agenda
+
+Não se deve deduzir eficácia, retenção, redução de carga docente ou valor institucional apenas da coerência do framework. A síntese bibliográfica é seletiva e sistematizada, e o protocolo sistemático ainda aguarda execução. Estudos futuros precisam examinar clareza dos planos, fidelidade proporcional, qualidade das tarefas, evidências de transferência e viabilidade para professores. Instrumentos operacionais podem apoiar observação, mas não devem ser chamados de validados antes de evidência empírica apropriada.
+
+# Referências de partida
+
+Anderson, L. W., & Krathwohl, D. R. (2001). *A taxonomy for learning, teaching, and assessing*. Longman.
+
+Biggs, J., & Tang, C. (2011). *Teaching for quality learning at university* (4th ed.). Open University Press.
+
+Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press.
+
+Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415.
+
+Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99–107.
+
+Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press.
+
+National Research Council. (2012). *Education for life and work*. National Academies Press.
+
+Page, M. J., et al. (2021). PRISMA 2020 explanation and elaboration. *BMJ, 372*, n160.
+
+Tricco, A. C., et al. (2018). PRISMA extension for scoping reviews. *Annals of Internal Medicine, 169*(7), 467–473.
