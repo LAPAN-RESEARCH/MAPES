@@ -9,6 +9,7 @@ O professor é a autoridade acadêmica: responde pelo conteúdo, estratégia ped
 - [Livro MAPES](livro/MAPES.md) e [PDF](dist/MAPES-Livro.pdf)
 - [Formação Docente MAPES](formacao-docente/FORMACAO-DOCENTE-MAPES.md), [Plano MAPES da Aula](formacao-docente/PLANO-MAPES-DA-AULA.md) e [PDF](dist/MAPES-Formacao-Docente.pdf)
 - [Revisão da Literatura](pesquisa/REVISAO-DA-LITERATURA-MAPES.md), [protocolo](pesquisa/PROTOCOLO-REVISAO-SISTEMATICA-MAPES.md), [análise crítica](pesquisa/ANALISE-CRITICA-POS-REVISAO.md) e [PDF](dist/MAPES-Revisao-da-Literatura.pdf)
+- [Valor Institucional MAPES](dossie-valor-institucional-mapes/MAPES-VALOR-INSTITUCIONAL.md) e [PDF](dossie-valor-institucional-mapes/dist/MAPES-VALOR-INSTITUCIONAL.pdf): material executivo para decisão sobre piloto institucional.
 - [Manifesto da Aula](recursos/MANIFESTO-DA-AULA.md), um registro técnico opcional.
 
 ## Publicações e verificações

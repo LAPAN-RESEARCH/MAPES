@@ -2,6 +2,8 @@
 """Verificações editoriais e de publicação para a estrutura canônica."""
 from pathlib import Path
 import re, sys
+import zipfile
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 CANON = [
@@ -64,6 +66,61 @@ for f, content in texts:
 for name in ("MAPES-Livro.pdf", "MAPES-Formacao-Docente.pdf", "MAPES-Revisao-da-Literatura.pdf"):
     if not (ROOT / "dist" / name).is_file():
         errors.append(f"PDF ausente: dist/{name}")
+DOSSIER_DIST = ROOT / "dossie-valor-institucional-mapes" / "dist"
+DOSSIER_PDFS = (
+    "MAPES-VALOR-INSTITUCIONAL.pdf",
+    "MAPES-VALOR-INSTITUCIONAL-RESUMO-EXECUTIVO.pdf",
+    "CADERNO-EXECUTIVO-PILOTO-MAPES.pdf",
+    "NOTA-REGULATORIA-E-EVIDENCIAS-MAPES.pdf",
+)
+DOSSIER_DOCX = (
+    "MAPES-VALOR-INSTITUCIONAL.docx",
+    "MAPES-VALOR-INSTITUCIONAL-RESUMO-EXECUTIVO.docx",
+    "CADERNO-EXECUTIVO-PILOTO-MAPES.docx",
+    "NOTA-REGULATORIA-E-EVIDENCIAS-MAPES.docx",
+)
+DOSSIER_SVGS = (
+    ROOT / "dossie-valor-institucional-mapes" / "diagramas" / "01-como-mapes-cria-valor.svg",
+    ROOT / "dossie-valor-institucional-mapes" / "diagramas" / "02-dimensoes-valor.svg",
+    ROOT / "dossie-valor-institucional-mapes" / "diagramas" / "03-piloto.svg",
+)
+
+for name in DOSSIER_PDFS:
+    file = DOSSIER_DIST / name
+    relative = file.relative_to(ROOT)
+    if not file.is_file():
+        errors.append(f"PDF ausente: {relative}")
+    elif not file.read_bytes().startswith(b"%PDF-"):
+        errors.append(f"PDF inválido (assinatura %PDF- ausente): {relative}")
+
+for name in DOSSIER_DOCX:
+    file = DOSSIER_DIST / name
+    relative = file.relative_to(ROOT)
+    if not file.is_file():
+        errors.append(f"DOCX ausente: {relative}")
+        continue
+    if not zipfile.is_zipfile(file):
+        errors.append(f"DOCX inválido (não é um arquivo ZIP): {relative}")
+        continue
+    try:
+        with zipfile.ZipFile(file) as archive:
+            if "[Content_Types].xml" not in archive.namelist():
+                errors.append(f"DOCX inválido ([Content_Types].xml ausente): {relative}")
+    except (OSError, zipfile.BadZipFile) as exc:
+        errors.append(f"DOCX inválido ({exc}): {relative}")
+
+for file in DOSSIER_SVGS:
+    relative = file.relative_to(ROOT)
+    if not file.is_file():
+        errors.append(f"SVG ausente: {relative}")
+        continue
+    try:
+        root = ET.parse(file).getroot()
+    except (OSError, ET.ParseError) as exc:
+        errors.append(f"SVG inválido (XML malformado: {exc}): {relative}")
+        continue
+    if root.tag.rsplit("}", 1)[-1] != "svg":
+        errors.append(f"SVG inválido (elemento raiz não é <svg>): {relative}")
 if errors:
     print("\n".join(errors))
     sys.exit(1)
